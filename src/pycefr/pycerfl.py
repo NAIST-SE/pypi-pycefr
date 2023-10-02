@@ -1,5 +1,5 @@
 #-- MAIN PROGRAMME
-
+from __future__ import annotations
 import ast
 import os
 from ClassIterTree import IterTree
@@ -10,7 +10,7 @@ import shlex, subprocess
 import json
 import requests
 
-from __future__ import annotations
+
 
 #-- Create lists of each attribute
 Literals = ['ast.List', 'ast.Tuple', 'ast.Dict']
