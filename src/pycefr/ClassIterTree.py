@@ -3,7 +3,7 @@
 import ast
 import csv
 import json
-import levels
+import pycefr.levels as levels
 
 class IterTree():
     """ Class to iterate tree. """

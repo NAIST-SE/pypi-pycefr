@@ -2,15 +2,13 @@
 from __future__ import annotations
 import ast
 import os
-from ClassIterTree import IterTree
-from getjson import read_Json
-from getcsv import read_FileCsv
+from pycefr.ClassIterTree import IterTree
+from pycefr.getjson import read_Json
+from pycefr.getcsv import read_FileCsv
 import sys
 import shlex, subprocess
-import json
-import requests
-
-
+# import json
+# import requests
 
 #-- Create lists of each attribute
 Literals = ['ast.List', 'ast.Tuple', 'ast.Dict']

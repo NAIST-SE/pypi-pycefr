@@ -5,6 +5,16 @@ import ast
 #-- Level dictionary global variable
 dictLevel = ''
 
+import os
+
+location = os.path.dirname(os.path.realpath(__file__))
+my_data = os.path.join(location, 'data','dicc.txt')
+
+with open(my_data, 'r') as dict_file:
+    """ Read file with levels """
+    dict_text = dict_file.read()
+    dictLevel = eval(dict_text)
+
 #-- List of loop elements: break, continue, pass,for, while
 listElemLoop = ['ast.Break', 'ast.Continue', 'ast.Pass', 'ast.While', 'ast.For']
 
