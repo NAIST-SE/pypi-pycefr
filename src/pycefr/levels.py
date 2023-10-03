@@ -7,17 +7,9 @@ dictLevel = ''
 
 #-- List of loop elements: break, continue, pass,for, while
 listElemLoop = ['ast.Break', 'ast.Continue', 'ast.Pass', 'ast.While', 'ast.For']
+
 #-- List of imports
 listImport = ['ast.Import', 'ast.ImportFrom']
-
-
-with open('dicc.txt', 'r') as dict_file:
-    """ Read file with levels """
-
-    dict_text = dict_file.read()
-    dictLevel = eval(dict_text)
-
-
 def levels(self):
     """ Assign levels. """
     if self.attrib == 'ast.List':
