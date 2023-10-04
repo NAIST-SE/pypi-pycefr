@@ -3,7 +3,7 @@
 import ast
 import csv
 import json
-import pycefr.levels as levels
+from pycefr import levels
 
 class IterTree():
     """ Class to iterate tree. """
@@ -41,24 +41,24 @@ class IterTree():
         if (self.clase != '') and (self.level != ''):
             self.list = [self.repo, self.name, self.clase, self.node.lineno,
                         self.node.end_lineno, self.node.col_offset, self.level]
-            #print(self.list)
+            print(self.list)
             self.add_Csv()
 
     def add_Csv(self):
         """ Add object list to CSV. """
         self.myDataCsv.append(self.list)
-        #print(self.myDataList)
+        # print(self.myDataList)
         self.read_FileCsv()
 
-    def read_FileCsv(self, file_csv = ""):
+    def read_FileCsv(self, file_csv = "", ):
         """ Create and add data in the .csv file. """
         if not file_csv:
-            file_csv = open('data.csv', 'w')
+            file_csv = open('data.csv', 'w', encoding="utf-8")
             with file_csv:
                 writer = csv.writer(file_csv)
                 writer.writerows(self.myDataCsv)
         else:
-            with open(r'data.csv', 'a') as f:
+            with open(r'data.csv', 'a', encoding="utf-8") as f:
                 writer = csv.writer(f)
                 writer.writerow(self.myDataCsv)
 
@@ -80,5 +80,5 @@ class IterTree():
 
     def read_FileJson(self):
         """ Create and add data in the .json file. """
-        with open('data.json', 'w') as file:
+        with open('data.json', 'w', encoding="utf-8") as file:
             json.dump(self.myDataJson, file, indent=4)

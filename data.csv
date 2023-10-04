@@ -1,0 +1,1923 @@
+Repository,File Name,Class,Start Line,End Line,Displacement,Level
+ANEXO,anexo_kappa.py,Simple List,11,11,14,A1
+ANEXO,anexo_kappa.py,Simple List,12,12,14,A1
+ANEXO,anexo_kappa.py,Simple List,15,15,12,A1
+ANEXO,anexo_kappa.py,Simple List,18,18,13,A1
+ANEXO,anexo_kappa.py,Simple Tuple,75,75,11,A1
+ANEXO,anexo_kappa.py,'range' call function,23,23,13,A2
+ANEXO,anexo_kappa.py,Print,56,56,4,A1
+ANEXO,anexo_kappa.py,Print,57,57,4,A1
+ANEXO,anexo_kappa.py,Print,61,61,4,A1
+ANEXO,anexo_kappa.py,Print,25,25,8,A1
+ANEXO,anexo_kappa.py,Files --> 'open' call function,43,43,13,A2
+ANEXO,anexo_kappa.py,Simple Atributte,65,65,0,A2
+ANEXO,anexo_kappa.py,Simple Atributte,22,22,11,A2
+ANEXO,anexo_kappa.py,Simple Atributte,42,42,16,A2
+ANEXO,anexo_kappa.py,Simple Atributte,71,71,16,A2
+ANEXO,anexo_kappa.py,Simple Atributte,72,72,16,A2
+ANEXO,anexo_kappa.py,Simple Atributte,73,73,8,A2
+ANEXO,anexo_kappa.py,Simple Atributte,74,74,8,A2
+ANEXO,anexo_kappa.py,Simple Atributte,26,26,15,A2
+ANEXO,anexo_kappa.py,Simple Atributte,29,29,12,A2
+ANEXO,anexo_kappa.py,Simple Atributte,32,32,23,A2
+ANEXO,anexo_kappa.py,Simple Atributte,34,34,12,A2
+ANEXO,anexo_kappa.py,Simple Atributte,36,36,12,A2
+ANEXO,anexo_kappa.py,Simple Atributte,44,44,21,A2
+ANEXO,anexo_kappa.py,Simple Atributte,76,76,8,A2
+ANEXO,anexo_kappa.py,Simple Atributte,27,27,19,A2
+ANEXO,anexo_kappa.py,Simple Atributte,47,47,20,A2
+ANEXO,anexo_kappa.py,Simple Atributte,49,49,20,A2
+ANEXO,anexo_kappa.py,Simple Assignment,11,11,0,A1
+ANEXO,anexo_kappa.py,Simple Assignment,12,12,0,A1
+ANEXO,anexo_kappa.py,Simple Assignment,15,15,0,A1
+ANEXO,anexo_kappa.py,Simple Assignment,18,18,0,A1
+ANEXO,anexo_kappa.py,Simple Assignment,22,22,4,A1
+ANEXO,anexo_kappa.py,Simple Assignment,54,54,4,A1
+ANEXO,anexo_kappa.py,Simple Assignment,55,55,4,A1
+ANEXO,anexo_kappa.py,Simple Assignment,42,42,8,A1
+ANEXO,anexo_kappa.py,Simple Assignment,71,71,8,A1
+ANEXO,anexo_kappa.py,Simple Assignment,72,72,8,A1
+ANEXO,anexo_kappa.py,Simple Assignment,27,27,12,A1
+ANEXO,anexo_kappa.py,Assigment with sum (total = total + 1),28,28,12,A1
+ANEXO,anexo_kappa.py,Assigment with sum (total = total + 1),30,30,12,A1
+ANEXO,anexo_kappa.py,Assigment with sum (total = total + 1),31,31,12,A1
+ANEXO,anexo_kappa.py,Simple Assignment,32,32,12,A1
+ANEXO,anexo_kappa.py,Simple Assignment,44,44,12,A1
+ANEXO,anexo_kappa.py,Import,3,3,0,A2
+ANEXO,anexo_kappa.py,Import with 'as' extension ,5,5,0,B1
+ANEXO,anexo_kappa.py,Import with 'as' extension ,6,6,0,B1
+ANEXO,anexo_kappa.py,Import,7,7,0,A2
+ANEXO,anexo_kappa.py,Import,8,8,0,A2
+ANEXO,anexo_kappa.py,From,4,4,0,A2
+ANEXO,anexo_kappa.py,If statements using → __name__ == ‘__main__’,68,78,0,B2
+ANEXO,anexo_kappa.py,Simple If statements,26,36,8,A1
+ANEXO,anexo_kappa.py,Simple If statements,46,49,16,A1
+ANEXO,anexo_kappa.py,Simple For Loop,23,36,4,A1
+ANEXO,anexo_kappa.py,Simple For Loop,41,49,4,A1
+ANEXO,anexo_kappa.py,Simple For Loop,45,49,12,A1
+ANEXO,anexo_kappa.py,Exception --> try/except,70,76,4,B1
+ANEXO,anexo_kappa.py,With,43,49,8,B1
+ANEXO,anexo_kappa.py,Function,21,37,0,A1
+ANEXO,anexo_kappa.py,Function,40,50,0,A1
+ANEXO,anexo_kappa.py,Function with Simple argument,53,57,0,A1
+ANEXO,anexo_kappa.py,Function,60,61,0,A1
+pycefrl,ClassIterTree.py,1 Nested List,12,13,15,A2
+pycefrl,ClassIterTree.py,Simple List,12,13,16,A1
+pycefrl,ClassIterTree.py,Simple List,42,43,24,A1
+pycefrl,ClassIterTree.py,Simple List,72,72,56,A1
+pycefrl,ClassIterTree.py,Simple Dictionary,16,16,17,A2
+pycefrl,ClassIterTree.py,Simple Dictionary,69,69,45,A2
+pycefrl,ClassIterTree.py,Simple Dictionary,74,79,57,A2
+pycefrl,ClassIterTree.py,Files --> 'open' call function,56,56,23,A2
+pycefrl,ClassIterTree.py,Files --> 'open' call function,83,83,13,A2
+pycefrl,ClassIterTree.py,Files --> 'open' call function,61,61,17,A2
+pycefrl,ClassIterTree.py,Simple Atributte,20,20,8,A2
+pycefrl,ClassIterTree.py,Simple Atributte,21,21,8,A2
+pycefrl,ClassIterTree.py,Simple Atributte,22,22,8,A2
+pycefrl,ClassIterTree.py,Simple Atributte,23,23,8,A2
+pycefrl,ClassIterTree.py,Simple Atributte,28,28,12,A2
+pycefrl,ClassIterTree.py,Simple Atributte,24,24,8,A2
+pycefrl,ClassIterTree.py,Simple Atributte,28,28,25,A2
+pycefrl,ClassIterTree.py,Simple Atributte,28,28,34,A2
+pycefrl,ClassIterTree.py,Simple Atributte,42,42,12,A2
+pycefrl,ClassIterTree.py,Simple Atributte,49,49,8,A2
+pycefrl,ClassIterTree.py,Simple Atributte,49,49,30,A2
+pycefrl,ClassIterTree.py,Simple Atributte,51,51,8,A2
+pycefrl,ClassIterTree.py,Simple Atributte,31,31,16,A2
+pycefrl,ClassIterTree.py,Simple Atributte,32,32,16,A2
+pycefrl,ClassIterTree.py,Simple Atributte,41,41,12,A2
+pycefrl,ClassIterTree.py,Simple Atributte,41,41,35,A2
+pycefrl,ClassIterTree.py,Simple Atributte,42,42,25,A2
+pycefrl,ClassIterTree.py,Simple Atributte,42,42,36,A2
+pycefrl,ClassIterTree.py,Simple Atributte,42,42,47,A2
+pycefrl,ClassIterTree.py,Simple Atributte,42,42,59,A2
+pycefrl,ClassIterTree.py,Simple Atributte,43,43,24,A2
+pycefrl,ClassIterTree.py,Simple Atributte,43,43,46,A2
+pycefrl,ClassIterTree.py,Simple Atributte,43,43,68,A2
+pycefrl,ClassIterTree.py,Simple Atributte,45,45,12,A2
+pycefrl,ClassIterTree.py,Simple Atributte,49,49,8,A2
+pycefrl,ClassIterTree.py,Simple Atributte,67,67,12,A2
+pycefrl,ClassIterTree.py,Simple Atributte,67,67,35,A2
+pycefrl,ClassIterTree.py,Simple Atributte,74,74,12,A2
+pycefrl,ClassIterTree.py,Simple Atributte,84,84,12,A2
+pycefrl,ClassIterTree.py,Simple Atributte,84,84,22,A2
+pycefrl,ClassIterTree.py,Simple Atributte,30,30,20,A2
+pycefrl,ClassIterTree.py,Simple Atributte,30,30,39,A2
+pycefrl,ClassIterTree.py,Simple Atributte,33,33,16,A2
+pycefrl,ClassIterTree.py,Simple Atributte,34,34,16,A2
+pycefrl,ClassIterTree.py,Simple Atributte,35,35,16,A2
+pycefrl,ClassIterTree.py,Simple Atributte,36,36,16,A2
+pycefrl,ClassIterTree.py,Simple Atributte,42,42,59,A2
+pycefrl,ClassIterTree.py,Simple Atributte,43,43,24,A2
+pycefrl,ClassIterTree.py,Simple Atributte,43,43,46,A2
+pycefrl,ClassIterTree.py,Simple Atributte,58,58,25,A2
+pycefrl,ClassIterTree.py,Simple Atributte,59,59,16,A2
+pycefrl,ClassIterTree.py,Simple Atributte,59,59,33,A2
+pycefrl,ClassIterTree.py,Simple Atributte,62,62,25,A2
+pycefrl,ClassIterTree.py,Simple Atributte,63,63,16,A2
+pycefrl,ClassIterTree.py,Simple Atributte,63,63,32,A2
+pycefrl,ClassIterTree.py,Simple Atributte,68,68,19,A2
+pycefrl,ClassIterTree.py,Simple Atributte,68,68,32,A2
+pycefrl,ClassIterTree.py,Simple Atributte,69,69,16,A2
+pycefrl,ClassIterTree.py,Simple Atributte,69,69,32,A2
+pycefrl,ClassIterTree.py,Simple Atributte,71,71,19,A2
+pycefrl,ClassIterTree.py,Simple Atributte,72,72,43,A2
+pycefrl,ClassIterTree.py,Simple Atributte,71,71,32,A2
+pycefrl,ClassIterTree.py,Simple Atributte,71,71,48,A2
+pycefrl,ClassIterTree.py,Simple Atributte,72,72,16,A2
+pycefrl,ClassIterTree.py,Simple Atributte,72,72,32,A2
+pycefrl,ClassIterTree.py,Simple Atributte,74,74,39,A2
+pycefrl,ClassIterTree.py,Simple Atributte,75,75,36,A2
+pycefrl,ClassIterTree.py,Simple Atributte,76,76,36,A2
+pycefrl,ClassIterTree.py,Simple Atributte,77,77,36,A2
+pycefrl,ClassIterTree.py,Simple Atributte,78,78,36,A2
+pycefrl,ClassIterTree.py,Simple Atributte,79,79,36,A2
+pycefrl,ClassIterTree.py,Simple Atributte,74,74,12,A2
+pycefrl,ClassIterTree.py,Simple Atributte,74,74,28,A2
+pycefrl,ClassIterTree.py,Simple Atributte,76,76,36,A2
+pycefrl,ClassIterTree.py,Simple Atributte,77,77,36,A2
+pycefrl,ClassIterTree.py,Simple Atributte,78,78,36,A2
+pycefrl,ClassIterTree.py,Simple Assignment,12,13,4,A1
+pycefrl,ClassIterTree.py,Simple Assignment,16,16,4,A1
+pycefrl,ClassIterTree.py,Simple Assignment,20,20,8,A1
+pycefrl,ClassIterTree.py,Simple Assignment,21,21,8,A1
+pycefrl,ClassIterTree.py,Simple Assignment,22,22,8,A1
+pycefrl,ClassIterTree.py,Simple Assignment,23,23,8,A1
+pycefrl,ClassIterTree.py,Simple Assignment,42,43,12,A1
+pycefrl,ClassIterTree.py,Simple Assignment,56,56,12,A1
+pycefrl,ClassIterTree.py,Simple Assignment,31,31,16,A1
+pycefrl,ClassIterTree.py,Simple Assignment,32,32,16,A1
+pycefrl,ClassIterTree.py,Simple Assignment,58,58,16,A1
+pycefrl,ClassIterTree.py,Simple Assignment,62,62,16,A1
+pycefrl,ClassIterTree.py,Simple Assignment,69,69,16,A1
+pycefrl,ClassIterTree.py,Simple Assignment,72,72,16,A1
+pycefrl,ClassIterTree.py,Import,3,3,0,A2
+pycefrl,ClassIterTree.py,Import,4,4,0,A2
+pycefrl,ClassIterTree.py,Import,5,5,0,A2
+pycefrl,ClassIterTree.py,Import,6,6,0,A2
+pycefrl,ClassIterTree.py,Simple If statements,41,45,8,A1
+pycefrl,ClassIterTree.py,Simple If statements,55,63,8,A1
+pycefrl,ClassIterTree.py,Simple If statements,67,79,8,A1
+pycefrl,ClassIterTree.py,Simple If statements,30,36,12,A1
+pycefrl,ClassIterTree.py,Simple If statements,68,69,12,A1
+pycefrl,ClassIterTree.py,Simple If statements,71,72,12,A1
+pycefrl,ClassIterTree.py,Simple For Loop,28,36,8,A1
+pycefrl,ClassIterTree.py,With,83,84,8,B1
+pycefrl,ClassIterTree.py,With,57,59,12,B1
+pycefrl,ClassIterTree.py,With,61,63,12,B1
+pycefrl,ClassIterTree.py,Function with Simple argument,18,24,4,A1
+pycefrl,ClassIterTree.py,Function with Simple argument,26,36,4,A1
+pycefrl,ClassIterTree.py,Function with Simple argument,39,45,4,A1
+pycefrl,ClassIterTree.py,Function with Simple argument,47,51,4,A1
+pycefrl,ClassIterTree.py,Function with Simple argument with Default argument,53,63,4,A2
+pycefrl,ClassIterTree.py,Function with Simple argument,65,79,4,A1
+pycefrl,ClassIterTree.py,Function with Simple argument,81,84,4,A1
+pycefrl,ClassIterTree.py,Simple Class ,8,84,0,B1
+pycefrl,dict.py,Simple List,15,15,22,A1
+pycefrl,dict.py,Simple Tuple,17,17,8,A1
+pycefrl,dict.py,Simple Dictionary,10,10,9,A2
+pycefrl,dict.py,Simple Dictionary,18,18,31,A2
+pycefrl,dict.py,Files --> 'read' call function,7,7,0,A2
+pycefrl,dict.py,Files --> 'open' call function,22,22,5,A2
+pycefrl,dict.py,Files --> 'write' call function,23,23,4,A2
+pycefrl,dict.py,Simple Atributte,4,4,16,A2
+pycefrl,dict.py,Simple Atributte,7,7,0,A2
+pycefrl,dict.py,Simple Atributte,13,13,0,A2
+pycefrl,dict.py,Simple Atributte,14,14,15,A2
+pycefrl,dict.py,Simple Atributte,17,17,25,A2
+pycefrl,dict.py,Simple Atributte,23,23,4,A2
+pycefrl,dict.py,Simple Atributte,24,24,4,A2
+pycefrl,dict.py,Simple Atributte,18,18,8,A2
+pycefrl,dict.py,Simple Assignment,4,4,0,A1
+pycefrl,dict.py,Simple Assignment,10,10,0,A1
+pycefrl,dict.py,Simple Assignment,15,15,4,A1
+pycefrl,dict.py,Import,3,3,0,A2
+pycefrl,dict.py,1 Nested For Loop,14,18,0,A2
+pycefrl,dict.py,For Loop with Tuple as name,17,18,4,A2
+pycefrl,dict.py,With,22,24,0,B1
+pycefrl,getcsv.py,Simple List,49,49,21,A1
+pycefrl,getcsv.py,1 Nested List,14,15,24,A2
+pycefrl,getcsv.py,Simple List,14,15,25,A1
+pycefrl,getcsv.py,Files --> 'open' call function,35,35,19,A2
+pycefrl,getcsv.py,Files --> 'open' call function,47,47,9,A2
+pycefrl,getcsv.py,Files --> 'open' call function,40,40,13,A2
+pycefrl,getcsv.py,Simple Atributte,25,25,9,A2
+pycefrl,getcsv.py,Simple Atributte,17,17,8,A2
+pycefrl,getcsv.py,Simple Atributte,28,28,8,A2
+pycefrl,getcsv.py,Simple Atributte,48,48,17,A2
+pycefrl,getcsv.py,Simple Atributte,31,31,16,A2
+pycefrl,getcsv.py,Simple Atributte,37,37,21,A2
+pycefrl,getcsv.py,Simple Atributte,38,38,12,A2
+pycefrl,getcsv.py,Simple Atributte,41,41,21,A2
+pycefrl,getcsv.py,Simple Atributte,42,42,12,A2
+pycefrl,getcsv.py,Simple Atributte,51,51,12,A2
+pycefrl,getcsv.py,Simple Assignment,10,10,4,A1
+pycefrl,getcsv.py,Simple Assignment,11,11,4,A1
+pycefrl,getcsv.py,Simple Assignment,25,25,4,A1
+pycefrl,getcsv.py,Assigment with sum (total = total + 1),31,31,4,A1
+pycefrl,getcsv.py,Assigment with sum (total = total + 1),32,32,4,A1
+pycefrl,getcsv.py,Simple Assignment,18,18,8,A1
+pycefrl,getcsv.py,Simple Assignment,35,35,8,A1
+pycefrl,getcsv.py,Simple Assignment,48,48,8,A1
+pycefrl,getcsv.py,Simple Assignment,49,49,8,A1
+pycefrl,getcsv.py,Simple Assignment,14,15,12,A1
+pycefrl,getcsv.py,Simple Assignment,37,37,12,A1
+pycefrl,getcsv.py,Simple Assignment,41,41,12,A1
+pycefrl,getcsv.py,'pass' statement,30,30,8,B1
+pycefrl,getcsv.py,Import,3,3,0,A2
+pycefrl,getcsv.py,Import,4,4,0,A2
+pycefrl,getcsv.py,If statements using → __name__ == ‘__main__’,56,57,0,B2
+pycefrl,getcsv.py,Simple If statements,34,42,4,A1
+pycefrl,getcsv.py,Simple If statements,13,15,8,A1
+pycefrl,getcsv.py,Simple For Loop,12,19,4,A1
+pycefrl,getcsv.py,Simple For Loop,50,51,8,A1
+pycefrl,getcsv.py,Exception --> try/except,27,30,4,B1
+pycefrl,getcsv.py,With,47,53,4,B1
+pycefrl,getcsv.py,With,36,38,8,B1
+pycefrl,getcsv.py,With,40,42,8,B1
+pycefrl,getcsv.py,Function with Simple argument,7,19,0,A1
+pycefrl,getcsv.py,Function with Simple argument with Default argument,22,42,0,A2
+pycefrl,getcsv.py,Function with Simple argument with Default argument,45,53,0,A2
+pycefrl,getjson.py,Simple Tuple,125,125,8,A1
+pycefrl,getjson.py,Simple Tuple,119,119,12,A1
+pycefrl,getjson.py,Simple Dictionary,8,8,13,A2
+pycefrl,getjson.py,Simple Dictionary,10,10,15,A2
+pycefrl,getjson.py,Simple Dictionary,12,12,12,A2
+pycefrl,getjson.py,Simple Dictionary,19,19,27,A2
+pycefrl,getjson.py,Simple Dictionary,20,20,26,A2
+pycefrl,getjson.py,Simple Dictionary,22,22,37,A2
+pycefrl,getjson.py,Simple Dictionary,26,26,45,A2
+pycefrl,getjson.py,Simple Dictionary,29,29,48,A2
+pycefrl,getjson.py,Simple Dictionary,34,34,55,A2
+pycefrl,getjson.py,Simple Dictionary,40,40,44,A2
+pycefrl,getjson.py,Simple Dictionary,43,43,47,A2
+pycefrl,getjson.py,Simple Dictionary,48,48,54,A2
+pycefrl,getjson.py,Files --> 'open' call function,95,95,9,A2
+pycefrl,getjson.py,Files --> 'open' call function,99,99,9,A2
+pycefrl,getjson.py,Files --> 'open' call function,103,103,9,A2
+pycefrl,getjson.py,Files --> 'open' call function,107,107,9,A2
+pycefrl,getjson.py,Files --> 'open' call function,134,134,9,A2
+pycefrl,getjson.py,Simple Atributte,18,18,16,A2
+pycefrl,getjson.py,Simple Atributte,85,85,9,A2
+pycefrl,getjson.py,Simple Atributte,113,113,12,A2
+pycefrl,getjson.py,Simple Atributte,125,125,22,A2
+pycefrl,getjson.py,Simple Atributte,88,88,8,A2
+pycefrl,getjson.py,Simple Atributte,96,96,8,A2
+pycefrl,getjson.py,Simple Atributte,100,100,8,A2
+pycefrl,getjson.py,Simple Atributte,104,104,8,A2
+pycefrl,getjson.py,Simple Atributte,108,108,8,A2
+pycefrl,getjson.py,Simple Atributte,119,119,26,A2
+pycefrl,getjson.py,Simple Atributte,135,135,15,A2
+pycefrl,getjson.py,Simple Atributte,38,38,24,A2
+pycefrl,getjson.py,Simple Assignment,8,8,0,A1
+pycefrl,getjson.py,Simple Assignment,10,10,0,A1
+pycefrl,getjson.py,Simple Assignment,12,12,0,A1
+pycefrl,getjson.py,Simple Assignment,85,85,4,A1
+pycefrl,getjson.py,Assigment with sum (total = total + 1),92,92,4,A1
+pycefrl,getjson.py,Simple Assignment,93,93,4,A1
+pycefrl,getjson.py,Simple Assignment,94,94,4,A1
+pycefrl,getjson.py,Assigment with sum (total = total + 1),98,98,4,A1
+pycefrl,getjson.py,Assigment with sum (total = total + 1),102,102,4,A1
+pycefrl,getjson.py,Assigment with sum (total = total + 1),106,106,4,A1
+pycefrl,getjson.py,Simple Assignment,113,113,4,A1
+pycefrl,getjson.py,Simple Assignment,114,114,4,A1
+pycefrl,getjson.py,Simple Assignment,115,115,4,A1
+pycefrl,getjson.py,Simple Assignment,124,124,4,A1
+pycefrl,getjson.py,Simple Assignment,19,19,8,A1
+pycefrl,getjson.py,Simple Assignment,20,20,8,A1
+pycefrl,getjson.py,Simple Assignment,118,118,8,A1
+pycefrl,getjson.py,Simple Assignment,135,135,8,A1
+pycefrl,getjson.py,Simple Assignment,137,137,8,A1
+pycefrl,getjson.py,Simple Assignment,22,22,12,A1
+pycefrl,getjson.py,Simple Assignment,59,59,12,A1
+pycefrl,getjson.py,Simple Assignment,68,68,12,A1
+pycefrl,getjson.py,Simple Assignment,77,77,12,A1
+pycefrl,getjson.py,Simple Assignment,24,24,16,A1
+pycefrl,getjson.py,Simple Assignment,36,36,16,A1
+pycefrl,getjson.py,Simple Assignment,38,38,16,A1
+pycefrl,getjson.py,Simple Assignment,26,26,20,A1
+pycefrl,getjson.py,Simple Assignment,29,29,20,A1
+pycefrl,getjson.py,Simple Assignment,34,34,20,A1
+pycefrl,getjson.py,Simple Assignment,40,40,20,A1
+pycefrl,getjson.py,Simple Assignment,43,43,20,A1
+pycefrl,getjson.py,Simple Assignment,48,48,20,A1
+pycefrl,getjson.py,Simplified incremental Assignment with increase amount,116,116,4,A2
+pycefrl,getjson.py,Simplified incremental Assignment with increase amount,122,122,4,A2
+pycefrl,getjson.py,Simplified incremental Assignment with increase amount,127,127,4,A2
+pycefrl,getjson.py,Simplified incremental Assignment with increase amount,61,61,8,A2
+pycefrl,getjson.py,Simplified incremental Assignment with increase amount,70,70,8,A2
+pycefrl,getjson.py,Simplified incremental Assignment with increase amount,79,79,8,A2
+pycefrl,getjson.py,Simplified incremental Assignment with increase amount,126,126,8,A2
+pycefrl,getjson.py,Simplified incremental Assignment with increase amount,120,120,12,A2
+pycefrl,getjson.py,'pass' statement,90,90,8,B1
+pycefrl,getjson.py,Import,3,3,0,A2
+pycefrl,getjson.py,Import,4,4,0,A2
+pycefrl,getjson.py,Import're' module,5,5,0,C1
+pycefrl,getjson.py,If statements using → __name__ == ‘__main__’,143,144,0,B2
+pycefrl,getjson.py,Simple If statements,57,61,4,A1
+pycefrl,getjson.py,Simple If statements,66,70,4,A1
+pycefrl,getjson.py,Simple If statements,75,79,4,A1
+pycefrl,getjson.py,Simple If statements,58,59,8,A1
+pycefrl,getjson.py,Simple If statements,67,68,8,A1
+pycefrl,getjson.py,Simple If statements,76,77,8,A1
+pycefrl,getjson.py,Simple If statements,25,26,16,A1
+pycefrl,getjson.py,Simple If statements,28,29,16,A1
+pycefrl,getjson.py,Simple If statements,31,34,16,A1
+pycefrl,getjson.py,Simple If statements,39,40,16,A1
+pycefrl,getjson.py,Simple If statements,42,43,16,A1
+pycefrl,getjson.py,Simple If statements,45,48,16,A1
+pycefrl,getjson.py,1 Nested For Loop,18,51,4,A2
+pycefrl,getjson.py,1 Nested For Loop,117,120,4,A2
+pycefrl,getjson.py,For Loop with Tuple as name,125,126,4,A2
+pycefrl,getjson.py,1 Nested For Loop,21,49,8,A2
+pycefrl,getjson.py,For Loop with Tuple as name,119,120,8,A2
+pycefrl,getjson.py,Simple For Loop,23,49,12,A1
+pycefrl,getjson.py,Exception --> try/except,87,90,4,B1
+pycefrl,getjson.py,With,95,96,4,B1
+pycefrl,getjson.py,With,99,100,4,B1
+pycefrl,getjson.py,With,103,104,4,B1
+pycefrl,getjson.py,With,107,108,4,B1
+pycefrl,getjson.py,With,134,138,4,B1
+pycefrl,getjson.py,Function with Simple argument,15,51,0,A1
+pycefrl,getjson.py,Function with Simple argument,55,61,0,A1
+pycefrl,getjson.py,Function with Simple argument,64,70,0,A1
+pycefrl,getjson.py,Function with Simple argument,73,79,0,A1
+pycefrl,getjson.py,Function with Simple argument,82,108,0,A1
+pycefrl,getjson.py,Function,111,128,0,A1
+pycefrl,getjson.py,Function,131,138,0,A1
+pycefrl,getjson.py,Return,128,128,4,A1
+pycefrl,getjson.py,Return,138,138,8,A1
+pycefrl,levels.py,Simple List,9,9,15,A1
+pycefrl,levels.py,Simple List,11,11,13,A1
+pycefrl,levels.py,Simple List,172,172,17,A1
+pycefrl,levels.py,Simple List,174,174,18,A1
+pycefrl,levels.py,Simple List,176,176,18,A1
+pycefrl,levels.py,Simple List,434,434,14,A1
+pycefrl,levels.py,Simple List,513,513,18,A1
+pycefrl,levels.py,Simple List,570,570,16,A1
+pycefrl,levels.py,Simple List,473,473,17,A1
+pycefrl,levels.py,Simple List,295,295,27,A1
+pycefrl,levels.py,Simple List,376,376,30,A1
+pycefrl,levels.py,Simple List,379,379,34,A1
+pycefrl,levels.py,Simple List,387,387,36,A1
+pycefrl,levels.py,Simple List,664,664,31,A1
+pycefrl,levels.py,Simple List,667,667,29,A1
+pycefrl,levels.py,Simple List,670,670,32,A1
+pycefrl,levels.py,Simple List,102,102,44,A1
+pycefrl,levels.py,Files --> 'open' call function,14,14,5,A2
+pycefrl,levels.py,Files --> 'read' call function,17,17,16,A2
+pycefrl,levels.py,'range' call function,99,99,13,A2
+pycefrl,levels.py,'range' call function,439,439,13,A2
+pycefrl,levels.py,'range' call function,594,594,13,A2
+pycefrl,levels.py,'range' call function,120,120,17,A2
+pycefrl,levels.py,'range' call function,583,583,17,A2
+pycefrl,levels.py,'range' call function,606,606,17,A2
+pycefrl,levels.py,'range' call function,210,210,17,A2
+pycefrl,levels.py,'range' call function,442,442,21,A2
+pycefrl,levels.py,Simple Atributte,97,97,4,A2
+pycefrl,levels.py,Simple Atributte,98,98,4,A2
+pycefrl,levels.py,Simple Atributte,141,141,13,A2
+pycefrl,levels.py,Simple Atributte,162,162,13,A2
+pycefrl,levels.py,Simple Atributte,220,220,4,A2
+pycefrl,levels.py,Simple Atributte,221,221,4,A2
+pycefrl,levels.py,Simple Atributte,305,305,4,A2
+pycefrl,levels.py,Simple Atributte,306,306,4,A2
+pycefrl,levels.py,Simple Atributte,311,311,4,A2
+pycefrl,levels.py,Simple Atributte,312,312,4,A2
+pycefrl,levels.py,Simple Atributte,317,317,4,A2
+pycefrl,levels.py,Simple Atributte,318,318,4,A2
+pycefrl,levels.py,Simple Atributte,327,327,4,A2
+pycefrl,levels.py,Simple Atributte,328,328,4,A2
+pycefrl,levels.py,Simple Atributte,358,358,4,A2
+pycefrl,levels.py,Simple Atributte,363,363,4,A2
+pycefrl,levels.py,Simple Atributte,364,364,4,A2
+pycefrl,levels.py,Simple Atributte,398,398,4,A2
+pycefrl,levels.py,Simple Atributte,399,399,4,A2
+pycefrl,levels.py,Simple Atributte,404,404,4,A2
+pycefrl,levels.py,Simple Atributte,405,405,4,A2
+pycefrl,levels.py,Simple Atributte,422,422,4,A2
+pycefrl,levels.py,Simple Atributte,423,423,4,A2
+pycefrl,levels.py,Simple Atributte,429,429,4,A2
+pycefrl,levels.py,Simple Atributte,430,430,4,A2
+pycefrl,levels.py,Simple Atributte,452,452,13,A2
+pycefrl,levels.py,Simple Atributte,465,465,13,A2
+pycefrl,levels.py,Simple Atributte,490,490,17,A2
+pycefrl,levels.py,Simple Atributte,507,507,13,A2
+pycefrl,levels.py,Simple Atributte,518,518,16,A2
+pycefrl,levels.py,Simple Atributte,526,526,16,A2
+pycefrl,levels.py,Simple Atributte,539,539,4,A2
+pycefrl,levels.py,Simple Atributte,540,540,4,A2
+pycefrl,levels.py,Simple Atributte,542,542,13,A2
+pycefrl,levels.py,Simple Atributte,575,575,4,A2
+pycefrl,levels.py,Simple Atributte,576,576,4,A2
+pycefrl,levels.py,Simple Atributte,604,604,13,A2
+pycefrl,levels.py,Simple Atributte,647,647,4,A2
+pycefrl,levels.py,Simple Atributte,648,648,4,A2
+pycefrl,levels.py,Simple Atributte,653,653,4,A2
+pycefrl,levels.py,Simple Atributte,654,654,4,A2
+pycefrl,levels.py,Simple Atributte,660,660,4,A2
+pycefrl,levels.py,Simple Atributte,677,677,4,A2
+pycefrl,levels.py,Simple Atributte,678,678,4,A2
+pycefrl,levels.py,Simple Atributte,683,683,4,A2
+pycefrl,levels.py,Simple Atributte,684,684,4,A2
+pycefrl,levels.py,Simple Atributte,689,689,4,A2
+pycefrl,levels.py,Simple Atributte,690,690,4,A2
+pycefrl,levels.py,Simple Atributte,17,17,16,A2
+pycefrl,levels.py,Simple Atributte,23,23,7,A2
+pycefrl,levels.py,Simple Atributte,82,82,8,A2
+pycefrl,levels.py,Simple Atributte,83,83,8,A2
+pycefrl,levels.py,Simple Atributte,117,117,8,A2
+pycefrl,levels.py,Simple Atributte,118,118,8,A2
+pycefrl,levels.py,Simple Atributte,141,141,13,A2
+pycefrl,levels.py,Simple Atributte,151,151,8,A2
+pycefrl,levels.py,Simple Atributte,152,152,8,A2
+pycefrl,levels.py,Simple Atributte,162,162,13,A2
+pycefrl,levels.py,Simple Atributte,206,206,8,A2
+pycefrl,levels.py,Simple Atributte,207,207,8,A2
+pycefrl,levels.py,Simple Atributte,227,227,7,A2
+pycefrl,levels.py,Simple Atributte,228,228,8,A2
+pycefrl,levels.py,Simple Atributte,229,229,8,A2
+pycefrl,levels.py,Simple Atributte,234,234,8,A2
+pycefrl,levels.py,Simple Atributte,241,241,8,A2
+pycefrl,levels.py,Simple Atributte,255,255,17,A2
+pycefrl,levels.py,Simple Atributte,266,266,7,A2
+pycefrl,levels.py,Simple Atributte,267,267,8,A2
+pycefrl,levels.py,Simple Atributte,268,268,8,A2
+pycefrl,levels.py,Simple Atributte,281,281,7,A2
+pycefrl,levels.py,Simple Atributte,295,295,7,A2
+pycefrl,levels.py,Simple Atributte,296,296,8,A2
+pycefrl,levels.py,Simple Atributte,297,297,8,A2
+pycefrl,levels.py,Simple Atributte,299,299,8,A2
+pycefrl,levels.py,Simple Atributte,300,300,8,A2
+pycefrl,levels.py,Simple Atributte,331,331,8,A2
+pycefrl,levels.py,Simple Atributte,332,332,8,A2
+pycefrl,levels.py,Simple Atributte,334,334,8,A2
+pycefrl,levels.py,Simple Atributte,336,336,8,A2
+pycefrl,levels.py,Simple Atributte,338,338,8,A2
+pycefrl,levels.py,Simple Atributte,340,340,8,A2
+pycefrl,levels.py,Simple Atributte,351,351,8,A2
+pycefrl,levels.py,Simple Atributte,376,376,7,A2
+pycefrl,levels.py,Simple Atributte,377,377,8,A2
+pycefrl,levels.py,Simple Atributte,379,379,7,A2
+pycefrl,levels.py,Simple Atributte,380,380,8,A2
+pycefrl,levels.py,Simple Atributte,381,381,8,A2
+pycefrl,levels.py,Simple Atributte,383,383,7,A2
+pycefrl,levels.py,Simple Atributte,384,384,8,A2
+pycefrl,levels.py,Simple Atributte,385,385,8,A2
+pycefrl,levels.py,Simple Atributte,387,387,7,A2
+pycefrl,levels.py,Simple Atributte,388,388,8,A2
+pycefrl,levels.py,Simple Atributte,389,389,8,A2
+pycefrl,levels.py,Simple Atributte,391,391,7,A2
+pycefrl,levels.py,Simple Atributte,392,392,8,A2
+pycefrl,levels.py,Simple Atributte,393,393,8,A2
+pycefrl,levels.py,Simple Atributte,410,410,13,A2
+pycefrl,levels.py,Simple Atributte,410,410,22,A2
+pycefrl,levels.py,Simple Atributte,452,452,13,A2
+pycefrl,levels.py,Simple Atributte,462,462,8,A2
+pycefrl,levels.py,Simple Atributte,463,463,8,A2
+pycefrl,levels.py,Simple Atributte,465,465,13,A2
+pycefrl,levels.py,Simple Atributte,474,474,7,A2
+pycefrl,levels.py,Simple Atributte,475,475,8,A2
+pycefrl,levels.py,Simple Atributte,476,476,8,A2
+pycefrl,levels.py,Simple Atributte,477,477,17,A2
+pycefrl,levels.py,Simple Atributte,480,480,8,A2
+pycefrl,levels.py,Simple Atributte,481,481,8,A2
+pycefrl,levels.py,Simple Atributte,490,490,17,A2
+pycefrl,levels.py,Simple Atributte,507,507,13,A2
+pycefrl,levels.py,Simple Atributte,518,518,16,A2
+pycefrl,levels.py,Simple Atributte,526,526,16,A2
+pycefrl,levels.py,Simple Atributte,542,542,13,A2
+pycefrl,levels.py,Simple Atributte,581,581,7,A2
+pycefrl,levels.py,Simple Atributte,604,604,13,A2
+pycefrl,levels.py,Simple Atributte,616,616,7,A2
+pycefrl,levels.py,Simple Atributte,626,626,17,A2
+pycefrl,levels.py,Simple Atributte,662,662,8,A2
+pycefrl,levels.py,Simple Atributte,663,663,8,A2
+pycefrl,levels.py,Simple Atributte,664,664,8,A2
+pycefrl,levels.py,Simple Atributte,665,665,8,A2
+pycefrl,levels.py,Simple Atributte,666,666,8,A2
+pycefrl,levels.py,Simple Atributte,667,667,8,A2
+pycefrl,levels.py,Simple Atributte,668,668,8,A2
+pycefrl,levels.py,Simple Atributte,669,669,8,A2
+pycefrl,levels.py,Simple Atributte,670,670,8,A2
+pycefrl,levels.py,Simple Atributte,671,671,8,A2
+pycefrl,levels.py,Simple Atributte,672,672,8,A2
+pycefrl,levels.py,Simple Atributte,25,25,9,A2
+pycefrl,levels.py,Simple Atributte,80,80,25,A2
+pycefrl,levels.py,Simple Atributte,81,81,18,A2
+pycefrl,levels.py,Simple Atributte,86,86,8,A2
+pycefrl,levels.py,Simple Atributte,87,87,8,A2
+pycefrl,levels.py,Simple Atributte,89,89,8,A2
+pycefrl,levels.py,Simple Atributte,90,90,8,A2
+pycefrl,levels.py,Simple Atributte,99,99,26,A2
+pycefrl,levels.py,Simple Atributte,102,102,12,A2
+pycefrl,levels.py,Simple Atributte,103,103,12,A2
+pycefrl,levels.py,Simple Atributte,104,104,12,A2
+pycefrl,levels.py,Simple Atributte,106,106,12,A2
+pycefrl,levels.py,Simple Atributte,107,107,12,A2
+pycefrl,levels.py,Simple Atributte,115,115,25,A2
+pycefrl,levels.py,Simple Atributte,116,116,18,A2
+pycefrl,levels.py,Simple Atributte,129,129,8,A2
+pycefrl,levels.py,Simple Atributte,130,130,8,A2
+pycefrl,levels.py,Simple Atributte,132,132,8,A2
+pycefrl,levels.py,Simple Atributte,133,133,8,A2
+pycefrl,levels.py,Simple Atributte,142,142,18,A2
+pycefrl,levels.py,Simple Atributte,144,144,12,A2
+pycefrl,levels.py,Simple Atributte,145,145,12,A2
+pycefrl,levels.py,Simple Atributte,147,147,12,A2
+pycefrl,levels.py,Simple Atributte,148,148,12,A2
+pycefrl,levels.py,Simple Atributte,149,149,26,A2
+pycefrl,levels.py,Simple Atributte,150,150,17,A2
+pycefrl,levels.py,Simple Atributte,155,155,8,A2
+pycefrl,levels.py,Simple Atributte,156,156,8,A2
+pycefrl,levels.py,Simple Atributte,163,163,20,A2
+pycefrl,levels.py,Simple Atributte,165,165,12,A2
+pycefrl,levels.py,Simple Atributte,166,166,12,A2
+pycefrl,levels.py,Simple Atributte,168,168,12,A2
+pycefrl,levels.py,Simple Atributte,169,169,12,A2
+pycefrl,levels.py,Simple Atributte,182,182,30,A2
+pycefrl,levels.py,Simple Atributte,183,183,12,A2
+pycefrl,levels.py,Simple Atributte,184,184,20,A2
+pycefrl,levels.py,Simple Atributte,231,231,12,A2
+pycefrl,levels.py,Simple Atributte,232,232,12,A2
+pycefrl,levels.py,Simple Atributte,249,249,28,A2
+pycefrl,levels.py,Simple Atributte,255,255,17,A2
+pycefrl,levels.py,Simple Atributte,272,272,12,A2
+pycefrl,levels.py,Simple Atributte,273,273,12,A2
+pycefrl,levels.py,Simple Atributte,274,274,9,A2
+pycefrl,levels.py,Simple Atributte,275,275,8,A2
+pycefrl,levels.py,Simple Atributte,276,276,8,A2
+pycefrl,levels.py,Simple Atributte,283,283,9,A2
+pycefrl,levels.py,Simple Atributte,295,295,7,A2
+pycefrl,levels.py,Simple Atributte,329,329,24,A2
+pycefrl,levels.py,Simple Atributte,330,330,18,A2
+pycefrl,levels.py,Simple Atributte,333,333,26,A2
+pycefrl,levels.py,Simple Atributte,335,335,21,A2
+pycefrl,levels.py,Simple Atributte,337,337,25,A2
+pycefrl,levels.py,Simple Atributte,339,339,19,A2
+pycefrl,levels.py,Simple Atributte,342,342,8,A2
+pycefrl,levels.py,Simple Atributte,344,344,8,A2
+pycefrl,levels.py,Simple Atributte,353,353,8,A2
+pycefrl,levels.py,Simple Atributte,376,376,7,A2
+pycefrl,levels.py,Simple Atributte,379,379,7,A2
+pycefrl,levels.py,Simple Atributte,383,383,7,A2
+pycefrl,levels.py,Simple Atributte,387,387,7,A2
+pycefrl,levels.py,Simple Atributte,391,391,7,A2
+pycefrl,levels.py,Simple Atributte,453,453,11,A2
+pycefrl,levels.py,Simple Atributte,454,454,12,A2
+pycefrl,levels.py,Simple Atributte,455,455,12,A2
+pycefrl,levels.py,Simple Atributte,461,461,8,A2
+pycefrl,levels.py,Simple Atributte,461,461,34,A2
+pycefrl,levels.py,Simple Atributte,466,466,11,A2
+pycefrl,levels.py,Simple Atributte,467,467,12,A2
+pycefrl,levels.py,Simple Atributte,468,468,12,A2
+pycefrl,levels.py,Simple Atributte,477,477,17,A2
+pycefrl,levels.py,Simple Atributte,483,483,8,A2
+pycefrl,levels.py,Simple Atributte,483,483,26,A2
+pycefrl,levels.py,Simple Atributte,493,493,12,A2
+pycefrl,levels.py,Simple Atributte,494,494,12,A2
+pycefrl,levels.py,Simple Atributte,497,497,17,A2
+pycefrl,levels.py,Simple Atributte,508,508,11,A2
+pycefrl,levels.py,Simple Atributte,509,509,12,A2
+pycefrl,levels.py,Simple Atributte,510,510,12,A2
+pycefrl,levels.py,Simple Atributte,519,519,11,A2
+pycefrl,levels.py,Simple Atributte,520,520,12,A2
+pycefrl,levels.py,Simple Atributte,521,521,12,A2
+pycefrl,levels.py,Simple Atributte,527,527,20,A2
+pycefrl,levels.py,Simple Atributte,544,544,12,A2
+pycefrl,levels.py,Simple Atributte,545,545,12,A2
+pycefrl,levels.py,Simple Atributte,551,551,32,A2
+pycefrl,levels.py,Simple Atributte,581,581,7,A2
+pycefrl,levels.py,Simple Atributte,595,595,15,A2
+pycefrl,levels.py,Simple Atributte,616,616,7,A2
+pycefrl,levels.py,Simple Atributte,618,618,9,A2
+pycefrl,levels.py,Simple Atributte,626,626,17,A2
+pycefrl,levels.py,Simple Atributte,634,634,17,A2
+pycefrl,levels.py,Simple Atributte,661,661,24,A2
+pycefrl,levels.py,Simple Atributte,664,664,8,A2
+pycefrl,levels.py,Simple Atributte,667,667,8,A2
+pycefrl,levels.py,Simple Atributte,670,670,8,A2
+pycefrl,levels.py,Simple Atributte,27,27,9,A2
+pycefrl,levels.py,Simple Atributte,80,80,25,A2
+pycefrl,levels.py,Simple Atributte,84,84,27,A2
+pycefrl,levels.py,Simple Atributte,85,85,18,A2
+pycefrl,levels.py,Simple Atributte,99,99,26,A2
+pycefrl,levels.py,Simple Atributte,115,115,25,A2
+pycefrl,levels.py,Simple Atributte,120,120,30,A2
+pycefrl,levels.py,Simple Atributte,123,123,16,A2
+pycefrl,levels.py,Simple Atributte,124,124,16,A2
+pycefrl,levels.py,Simple Atributte,127,127,27,A2
+pycefrl,levels.py,Simple Atributte,128,128,18,A2
+pycefrl,levels.py,Simple Atributte,149,149,26,A2
+pycefrl,levels.py,Simple Atributte,153,153,31,A2
+pycefrl,levels.py,Simple Atributte,154,154,23,A2
+pycefrl,levels.py,Simple Atributte,182,182,30,A2
+pycefrl,levels.py,Simple Atributte,183,183,12,A2
+pycefrl,levels.py,Simple Atributte,184,184,20,A2
+pycefrl,levels.py,Simple Atributte,186,186,27,A2
+pycefrl,levels.py,Simple Atributte,187,187,12,A2
+pycefrl,levels.py,Simple Atributte,230,230,30,A2
+pycefrl,levels.py,Simple Atributte,235,235,28,A2
+pycefrl,levels.py,Simple Atributte,249,249,28,A2
+pycefrl,levels.py,Simple Atributte,250,250,29,A2
+pycefrl,levels.py,Simple Atributte,251,251,15,A2
+pycefrl,levels.py,Simple Atributte,253,253,27,A2
+pycefrl,levels.py,Simple Atributte,255,255,17,A2
+pycefrl,levels.py,Simple Atributte,285,285,9,A2
+pycefrl,levels.py,Simple Atributte,329,329,24,A2
+pycefrl,levels.py,Simple Atributte,333,333,26,A2
+pycefrl,levels.py,Simple Atributte,337,337,25,A2
+pycefrl,levels.py,Simple Atributte,341,341,28,A2
+pycefrl,levels.py,Simple Atributte,343,343,21,A2
+pycefrl,levels.py,Simple Atributte,355,355,8,A2
+pycefrl,levels.py,Simple Atributte,376,376,7,A2
+pycefrl,levels.py,Simple Atributte,379,379,7,A2
+pycefrl,levels.py,Simple Atributte,383,383,7,A2
+pycefrl,levels.py,Simple Atributte,387,387,7,A2
+pycefrl,levels.py,Simple Atributte,391,391,7,A2
+pycefrl,levels.py,Simple Atributte,461,461,8,A2
+pycefrl,levels.py,Simple Atributte,461,461,34,A2
+pycefrl,levels.py,Simple Atributte,478,478,12,A2
+pycefrl,levels.py,Simple Atributte,478,478,30,A2
+pycefrl,levels.py,Simple Atributte,483,483,26,A2
+pycefrl,levels.py,Simple Atributte,492,492,11,A2
+pycefrl,levels.py,Simple Atributte,551,551,32,A2
+pycefrl,levels.py,Simple Atributte,584,584,19,A2
+pycefrl,levels.py,Simple Atributte,598,598,16,A2
+pycefrl,levels.py,Simple Atributte,599,599,16,A2
+pycefrl,levels.py,Simple Atributte,607,607,19,A2
+pycefrl,levels.py,Simple Atributte,618,618,9,A2
+pycefrl,levels.py,Simple Atributte,627,627,15,A2
+pycefrl,levels.py,Simple Atributte,628,628,29,A2
+pycefrl,levels.py,Simple Atributte,634,634,17,A2
+pycefrl,levels.py,Simple Atributte,641,641,8,A2
+pycefrl,levels.py,Simple Atributte,642,642,8,A2
+pycefrl,levels.py,Simple Atributte,661,661,24,A2
+pycefrl,levels.py,Simple Atributte,29,29,9,A2
+pycefrl,levels.py,Simple Atributte,81,81,22,A2
+pycefrl,levels.py,Simple Atributte,84,84,27,A2
+pycefrl,levels.py,Simple Atributte,102,102,12,A2
+pycefrl,levels.py,Simple Atributte,116,116,22,A2
+pycefrl,levels.py,Simple Atributte,120,120,30,A2
+pycefrl,levels.py,Simple Atributte,121,121,33,A2
+pycefrl,levels.py,Simple Atributte,122,122,27,A2
+pycefrl,levels.py,Simple Atributte,127,127,27,A2
+pycefrl,levels.py,Simple Atributte,142,142,22,A2
+pycefrl,levels.py,Simple Atributte,150,150,21,A2
+pycefrl,levels.py,Simple Atributte,153,153,31,A2
+pycefrl,levels.py,Simple Atributte,163,163,24,A2
+pycefrl,levels.py,Simple Atributte,183,183,12,A2
+pycefrl,levels.py,Simple Atributte,184,184,20,A2
+pycefrl,levels.py,Simple Atributte,186,186,27,A2
+pycefrl,levels.py,Simple Atributte,187,187,12,A2
+pycefrl,levels.py,Simple Atributte,190,190,14,A2
+pycefrl,levels.py,Simple Atributte,211,211,19,A2
+pycefrl,levels.py,Simple Atributte,230,230,30,A2
+pycefrl,levels.py,Simple Atributte,235,235,28,A2
+pycefrl,levels.py,Simple Atributte,237,237,30,A2
+pycefrl,levels.py,Simple Atributte,250,250,29,A2
+pycefrl,levels.py,Simple Atributte,251,251,15,A2
+pycefrl,levels.py,Simple Atributte,253,253,27,A2
+pycefrl,levels.py,Simple Atributte,257,257,19,A2
+pycefrl,levels.py,Simple Atributte,287,287,9,A2
+pycefrl,levels.py,Simple Atributte,330,330,23,A2
+pycefrl,levels.py,Simple Atributte,335,335,26,A2
+pycefrl,levels.py,Simple Atributte,339,339,24,A2
+pycefrl,levels.py,Simple Atributte,341,341,28,A2
+pycefrl,levels.py,Simple Atributte,357,357,8,A2
+pycefrl,levels.py,Simple Atributte,413,413,19,A2
+pycefrl,levels.py,Simple Atributte,413,413,32,A2
+pycefrl,levels.py,Simple Atributte,414,414,20,A2
+pycefrl,levels.py,Simple Atributte,415,415,20,A2
+pycefrl,levels.py,Simple Atributte,443,443,23,A2
+pycefrl,levels.py,Simple Atributte,492,492,11,A2
+pycefrl,levels.py,Simple Atributte,492,492,49,A2
+pycefrl,levels.py,Simple Atributte,500,500,20,A2
+pycefrl,levels.py,Simple Atributte,501,501,20,A2
+pycefrl,levels.py,Simple Atributte,510,510,70,A2
+pycefrl,levels.py,Simple Atributte,521,521,54,A2
+pycefrl,levels.py,Simple Atributte,545,545,56,A2
+pycefrl,levels.py,Simple Atributte,586,586,24,A2
+pycefrl,levels.py,Simple Atributte,587,587,20,A2
+pycefrl,levels.py,Simple Atributte,588,588,20,A2
+pycefrl,levels.py,Simple Atributte,610,610,20,A2
+pycefrl,levels.py,Simple Atributte,611,611,20,A2
+pycefrl,levels.py,Simple Atributte,628,628,29,A2
+pycefrl,levels.py,Simple Atributte,635,635,15,A2
+pycefrl,levels.py,Simple Atributte,636,636,16,A2
+pycefrl,levels.py,Simple Atributte,637,637,16,A2
+pycefrl,levels.py,Simple Atributte,31,31,9,A2
+pycefrl,levels.py,Simple Atributte,81,81,22,A2
+pycefrl,levels.py,Simple Atributte,85,85,22,A2
+pycefrl,levels.py,Simple Atributte,102,102,12,A2
+pycefrl,levels.py,Simple Atributte,116,116,22,A2
+pycefrl,levels.py,Simple Atributte,128,128,22,A2
+pycefrl,levels.py,Simple Atributte,150,150,21,A2
+pycefrl,levels.py,Simple Atributte,154,154,27,A2
+pycefrl,levels.py,Simple Atributte,163,163,24,A2
+pycefrl,levels.py,Simple Atributte,187,187,12,A2
+pycefrl,levels.py,Simple Atributte,190,190,14,A2
+pycefrl,levels.py,Simple Atributte,193,193,14,A2
+pycefrl,levels.py,Simple Atributte,194,194,20,A2
+pycefrl,levels.py,Simple Atributte,214,214,20,A2
+pycefrl,levels.py,Simple Atributte,215,215,20,A2
+pycefrl,levels.py,Simple Atributte,237,237,30,A2
+pycefrl,levels.py,Simple Atributte,239,239,31,A2
+pycefrl,levels.py,Simple Atributte,250,250,29,A2
+pycefrl,levels.py,Simple Atributte,251,251,15,A2
+pycefrl,levels.py,Simple Atributte,253,253,27,A2
+pycefrl,levels.py,Simple Atributte,289,289,9,A2
+pycefrl,levels.py,Simple Atributte,330,330,23,A2
+pycefrl,levels.py,Simple Atributte,335,335,26,A2
+pycefrl,levels.py,Simple Atributte,339,339,24,A2
+pycefrl,levels.py,Simple Atributte,343,343,26,A2
+pycefrl,levels.py,Simple Atributte,413,413,19,A2
+pycefrl,levels.py,Simple Atributte,413,413,32,A2
+pycefrl,levels.py,Simple Atributte,446,446,24,A2
+pycefrl,levels.py,Simple Atributte,447,447,24,A2
+pycefrl,levels.py,Simple Atributte,492,492,49,A2
+pycefrl,levels.py,Simple Atributte,494,494,53,A2
+pycefrl,levels.py,Simple Atributte,499,499,20,A2
+pycefrl,levels.py,Simple Atributte,530,530,23,A2
+pycefrl,levels.py,Simple Atributte,531,531,24,A2
+pycefrl,levels.py,Simple Atributte,532,532,24,A2
+pycefrl,levels.py,Simple Atributte,586,586,24,A2
+pycefrl,levels.py,Simple Atributte,629,629,24,A2
+pycefrl,levels.py,Simple Atributte,630,630,24,A2
+pycefrl,levels.py,Simple Atributte,631,631,24,A2
+pycefrl,levels.py,Simple Atributte,638,638,22,A2
+pycefrl,levels.py,Simple Atributte,33,33,9,A2
+pycefrl,levels.py,Simple Atributte,85,85,22,A2
+pycefrl,levels.py,Simple Atributte,121,121,33,A2
+pycefrl,levels.py,Simple Atributte,122,122,31,A2
+pycefrl,levels.py,Simple Atributte,128,128,22,A2
+pycefrl,levels.py,Simple Atributte,154,154,27,A2
+pycefrl,levels.py,Simple Atributte,190,190,14,A2
+pycefrl,levels.py,Simple Atributte,193,193,14,A2
+pycefrl,levels.py,Simple Atributte,194,194,20,A2
+pycefrl,levels.py,Simple Atributte,196,196,14,A2
+pycefrl,levels.py,Simple Atributte,197,197,20,A2
+pycefrl,levels.py,Simple Atributte,239,239,31,A2
+pycefrl,levels.py,Simple Atributte,251,251,15,A2
+pycefrl,levels.py,Simple Atributte,343,343,26,A2
+pycefrl,levels.py,Simple Atributte,499,499,20,A2
+pycefrl,levels.py,Simple Atributte,499,499,54,A2
+pycefrl,levels.py,Simple Atributte,530,530,23,A2
+pycefrl,levels.py,Simple Atributte,588,588,67,A2
+pycefrl,levels.py,Simple Atributte,638,638,22,A2
+pycefrl,levels.py,Simple Atributte,35,35,9,A2
+pycefrl,levels.py,Simple Atributte,121,121,33,A2
+pycefrl,levels.py,Simple Atributte,193,193,14,A2
+pycefrl,levels.py,Simple Atributte,194,194,20,A2
+pycefrl,levels.py,Simple Atributte,196,196,14,A2
+pycefrl,levels.py,Simple Atributte,197,197,20,A2
+pycefrl,levels.py,Simple Atributte,199,199,14,A2
+pycefrl,levels.py,Simple Atributte,499,499,54,A2
+pycefrl,levels.py,Simple Atributte,501,501,64,A2
+pycefrl,levels.py,Simple Atributte,588,588,67,A2
+pycefrl,levels.py,Simple Atributte,37,37,9,A2
+pycefrl,levels.py,Simple Atributte,122,122,31,A2
+pycefrl,levels.py,Simple Atributte,196,196,14,A2
+pycefrl,levels.py,Simple Atributte,197,197,20,A2
+pycefrl,levels.py,Simple Atributte,199,199,14,A2
+pycefrl,levels.py,Simple Atributte,39,39,9,A2
+pycefrl,levels.py,Simple Atributte,122,122,31,A2
+pycefrl,levels.py,Simple Atributte,199,199,14,A2
+pycefrl,levels.py,Simple Atributte,41,41,9,A2
+pycefrl,levels.py,Simple Atributte,43,43,9,A2
+pycefrl,levels.py,Simple Atributte,45,45,9,A2
+pycefrl,levels.py,Simple Atributte,47,47,9,A2
+pycefrl,levels.py,Simple Atributte,49,49,9,A2
+pycefrl,levels.py,Simple Atributte,51,51,9,A2
+pycefrl,levels.py,Simple Atributte,53,53,9,A2
+pycefrl,levels.py,Simple Atributte,55,55,9,A2
+pycefrl,levels.py,Simple Atributte,57,57,9,A2
+pycefrl,levels.py,Simple Atributte,59,59,9,A2
+pycefrl,levels.py,Simple Atributte,62,62,9,A2
+pycefrl,levels.py,Simple Atributte,64,64,9,A2
+pycefrl,levels.py,Simple Atributte,66,66,9,A2
+pycefrl,levels.py,Simple Atributte,68,68,9,A2
+pycefrl,levels.py,Simple Atributte,70,70,9,A2
+pycefrl,levels.py,Simple Assignment,6,6,0,A1
+pycefrl,levels.py,Simple Assignment,9,9,0,A1
+pycefrl,levels.py,Simple Assignment,11,11,0,A1
+pycefrl,levels.py,Simple Assignment,172,172,0,A1
+pycefrl,levels.py,Simple Assignment,174,174,0,A1
+pycefrl,levels.py,Simple Assignment,176,176,0,A1
+pycefrl,levels.py,Simple Assignment,434,434,0,A1
+pycefrl,levels.py,Simple Assignment,513,513,0,A1
+pycefrl,levels.py,Simple Assignment,570,570,0,A1
+pycefrl,levels.py,Simple Assignment,17,17,4,A1
+pycefrl,levels.py,Simple Assignment,18,18,4,A1
+pycefrl,levels.py,Simple Assignment,77,77,4,A1
+pycefrl,levels.py,Simple Assignment,78,78,4,A1
+pycefrl,levels.py,Simple Assignment,95,95,4,A1
+pycefrl,levels.py,Simple Assignment,96,96,4,A1
+pycefrl,levels.py,Simple Assignment,97,97,4,A1
+pycefrl,levels.py,Simple Assignment,98,98,4,A1
+pycefrl,levels.py,Simple Assignment,112,112,4,A1
+pycefrl,levels.py,Simple Assignment,113,113,4,A1
+pycefrl,levels.py,Simple Assignment,138,138,4,A1
+pycefrl,levels.py,Simple Assignment,139,139,4,A1
+pycefrl,levels.py,Simple Assignment,140,140,4,A1
+pycefrl,levels.py,Simple Assignment,161,161,4,A1
+pycefrl,levels.py,Simple Assignment,181,181,4,A1
+pycefrl,levels.py,Simple Assignment,220,220,4,A1
+pycefrl,levels.py,Simple Assignment,221,221,4,A1
+pycefrl,levels.py,Simple Assignment,226,226,4,A1
+pycefrl,levels.py,Simple Assignment,246,246,4,A1
+pycefrl,levels.py,Simple Assignment,247,247,4,A1
+pycefrl,levels.py,Simple Assignment,248,248,4,A1
+pycefrl,levels.py,Simple Assignment,265,265,4,A1
+pycefrl,levels.py,Simple Assignment,305,305,4,A1
+pycefrl,levels.py,Simple Assignment,306,306,4,A1
+pycefrl,levels.py,Simple Assignment,311,311,4,A1
+pycefrl,levels.py,Simple Assignment,312,312,4,A1
+pycefrl,levels.py,Simple Assignment,317,317,4,A1
+pycefrl,levels.py,Simple Assignment,318,318,4,A1
+pycefrl,levels.py,Simple Assignment,323,323,4,A1
+pycefrl,levels.py,Simple Assignment,324,324,4,A1
+pycefrl,levels.py,Simple Assignment,325,325,4,A1
+pycefrl,levels.py,Simple Assignment,326,326,4,A1
+pycefrl,levels.py,Simple Assignment,327,327,4,A1
+pycefrl,levels.py,Simple Assignment,328,328,4,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),358,358,4,A1
+pycefrl,levels.py,Simple Assignment,363,363,4,A1
+pycefrl,levels.py,Simple Assignment,364,364,4,A1
+pycefrl,levels.py,Simple Assignment,398,398,4,A1
+pycefrl,levels.py,Simple Assignment,399,399,4,A1
+pycefrl,levels.py,Simple Assignment,404,404,4,A1
+pycefrl,levels.py,Simple Assignment,405,405,4,A1
+pycefrl,levels.py,Simple Assignment,422,422,4,A1
+pycefrl,levels.py,Simple Assignment,423,423,4,A1
+pycefrl,levels.py,Simple Assignment,429,429,4,A1
+pycefrl,levels.py,Simple Assignment,430,430,4,A1
+pycefrl,levels.py,Simple Assignment,473,473,4,A1
+pycefrl,levels.py,Simple Assignment,539,539,4,A1
+pycefrl,levels.py,Simple Assignment,540,540,4,A1
+pycefrl,levels.py,Simple Assignment,575,575,4,A1
+pycefrl,levels.py,Simple Assignment,576,576,4,A1
+pycefrl,levels.py,Simple Assignment,593,593,4,A1
+pycefrl,levels.py,Simple Assignment,647,647,4,A1
+pycefrl,levels.py,Simple Assignment,648,648,4,A1
+pycefrl,levels.py,Simple Assignment,653,653,4,A1
+pycefrl,levels.py,Simple Assignment,654,654,4,A1
+pycefrl,levels.py,Simple Assignment,660,660,4,A1
+pycefrl,levels.py,Simple Assignment,677,677,4,A1
+pycefrl,levels.py,Simple Assignment,678,678,4,A1
+pycefrl,levels.py,Simple Assignment,683,683,4,A1
+pycefrl,levels.py,Simple Assignment,684,684,4,A1
+pycefrl,levels.py,Simple Assignment,689,689,4,A1
+pycefrl,levels.py,Simple Assignment,690,690,4,A1
+pycefrl,levels.py,Simple Assignment,81,81,8,A1
+pycefrl,levels.py,Simple Assignment,82,82,8,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),83,83,8,A1
+pycefrl,levels.py,Simple Assignment,116,116,8,A1
+pycefrl,levels.py,Simple Assignment,117,117,8,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),118,118,8,A1
+pycefrl,levels.py,Simple Assignment,151,151,8,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),152,152,8,A1
+pycefrl,levels.py,Simple Assignment,206,206,8,A1
+pycefrl,levels.py,Simple Assignment,207,207,8,A1
+pycefrl,levels.py,Simple Assignment,228,228,8,A1
+pycefrl,levels.py,Simple Assignment,229,229,8,A1
+pycefrl,levels.py,Simple Assignment,234,234,8,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),241,241,8,A1
+pycefrl,levels.py,Simple Assignment,267,267,8,A1
+pycefrl,levels.py,Simple Assignment,268,268,8,A1
+pycefrl,levels.py,Simple Assignment,270,270,8,A1
+pycefrl,levels.py,Simple Assignment,296,296,8,A1
+pycefrl,levels.py,Simple Assignment,297,297,8,A1
+pycefrl,levels.py,Simple Assignment,299,299,8,A1
+pycefrl,levels.py,Simple Assignment,300,300,8,A1
+pycefrl,levels.py,Simple Assignment,331,331,8,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),332,332,8,A1
+pycefrl,levels.py,Simple Assignment,334,334,8,A1
+pycefrl,levels.py,Simple Assignment,336,336,8,A1
+pycefrl,levels.py,Simple Assignment,338,338,8,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),340,340,8,A1
+pycefrl,levels.py,Simple Assignment,351,351,8,A1
+pycefrl,levels.py,Simple Assignment,380,380,8,A1
+pycefrl,levels.py,Simple Assignment,384,384,8,A1
+pycefrl,levels.py,Simple Assignment,388,388,8,A1
+pycefrl,levels.py,Simple Assignment,392,392,8,A1
+pycefrl,levels.py,Simple Assignment,462,462,8,A1
+pycefrl,levels.py,Simple Assignment,463,463,8,A1
+pycefrl,levels.py,Simple Assignment,475,475,8,A1
+pycefrl,levels.py,Simple Assignment,476,476,8,A1
+pycefrl,levels.py,Simple Assignment,480,480,8,A1
+pycefrl,levels.py,Simple Assignment,481,481,8,A1
+pycefrl,levels.py,Simple Assignment,582,582,8,A1
+pycefrl,levels.py,Simple Assignment,595,595,8,A1
+pycefrl,levels.py,Simple Assignment,605,605,8,A1
+pycefrl,levels.py,Simple Assignment,662,662,8,A1
+pycefrl,levels.py,Simple Assignment,665,665,8,A1
+pycefrl,levels.py,Simple Assignment,668,668,8,A1
+pycefrl,levels.py,Simple Assignment,671,671,8,A1
+pycefrl,levels.py,Simple Assignment,85,85,8,A1
+pycefrl,levels.py,Simple Assignment,86,86,8,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),87,87,8,A1
+pycefrl,levels.py,Simple Assignment,89,89,8,A1
+pycefrl,levels.py,Simple Assignment,90,90,8,A1
+pycefrl,levels.py,Simple Assignment,103,103,12,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),104,104,12,A1
+pycefrl,levels.py,Simple Assignment,106,106,12,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),107,107,12,A1
+pycefrl,levels.py,Simple Assignment,128,128,8,A1
+pycefrl,levels.py,Simple Assignment,129,129,8,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),130,130,8,A1
+pycefrl,levels.py,Simple Assignment,132,132,8,A1
+pycefrl,levels.py,Simple Assignment,133,133,8,A1
+pycefrl,levels.py,Simple Assignment,144,144,12,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),145,145,12,A1
+pycefrl,levels.py,Simple Assignment,147,147,12,A1
+pycefrl,levels.py,Simple Assignment,148,148,12,A1
+pycefrl,levels.py,Simple Assignment,155,155,8,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),156,156,8,A1
+pycefrl,levels.py,Simple Assignment,165,165,12,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),166,166,12,A1
+pycefrl,levels.py,Simple Assignment,168,168,12,A1
+pycefrl,levels.py,Simple Assignment,169,169,12,A1
+pycefrl,levels.py,Simple Assignment,184,184,12,A1
+pycefrl,levels.py,Simple Assignment,209,209,8,A1
+pycefrl,levels.py,Simple Assignment,231,231,12,A1
+pycefrl,levels.py,Simple Assignment,232,232,12,A1
+pycefrl,levels.py,Simple Assignment,236,236,12,A1
+pycefrl,levels.py,Simple Assignment,254,254,12,A1
+pycefrl,levels.py,Simple Assignment,272,272,12,A1
+pycefrl,levels.py,Simple Assignment,273,273,12,A1
+pycefrl,levels.py,Simple Assignment,275,275,8,A1
+pycefrl,levels.py,Simple Assignment,276,276,8,A1
+pycefrl,levels.py,Simple Assignment,342,342,8,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),344,344,8,A1
+pycefrl,levels.py,Simple Assignment,353,353,8,A1
+pycefrl,levels.py,Simple Assignment,441,441,12,A1
+pycefrl,levels.py,Simple Assignment,454,454,12,A1
+pycefrl,levels.py,Simple Assignment,467,467,12,A1
+pycefrl,levels.py,Simple Assignment,493,493,12,A1
+pycefrl,levels.py,Simple Assignment,509,509,12,A1
+pycefrl,levels.py,Simple Assignment,544,544,12,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),545,545,12,A1
+pycefrl,levels.py,Simple Assignment,584,584,12,A1
+pycefrl,levels.py,Simple Assignment,607,607,12,A1
+pycefrl,levels.py,Simple Assignment,123,123,16,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),124,125,16,A1
+pycefrl,levels.py,Simple Assignment,188,188,12,A1
+pycefrl,levels.py,Simple Assignment,211,211,12,A1
+pycefrl,levels.py,Simple Assignment,238,238,12,A1
+pycefrl,levels.py,Simple Assignment,252,252,16,A1
+pycefrl,levels.py,Simple Assignment,355,355,8,A1
+pycefrl,levels.py,Simple Assignment,443,443,16,A1
+pycefrl,levels.py,Simple Assignment,598,598,16,A1
+pycefrl,levels.py,Simple Assignment,599,599,16,A1
+pycefrl,levels.py,Simple Assignment,641,641,8,A1
+pycefrl,levels.py,Simple Assignment,642,642,8,A1
+pycefrl,levels.py,Simple Assignment,191,191,12,A1
+pycefrl,levels.py,Simple Assignment,240,240,12,A1
+pycefrl,levels.py,Simple Assignment,258,258,20,A1
+pycefrl,levels.py,Simple Assignment,357,357,8,A1
+pycefrl,levels.py,Simple Assignment,414,414,20,A1
+pycefrl,levels.py,Simple Assignment,415,415,20,A1
+pycefrl,levels.py,Simple Assignment,500,500,20,A1
+pycefrl,levels.py,Simple Assignment,587,587,20,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),588,588,20,A1
+pycefrl,levels.py,Simple Assignment,610,610,20,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),611,611,20,A1
+pycefrl,levels.py,Simple Assignment,636,636,16,A1
+pycefrl,levels.py,Simple Assignment,194,194,12,A1
+pycefrl,levels.py,Simple Assignment,214,214,20,A1
+pycefrl,levels.py,Assigment with sum (total = total + 1),215,215,20,A1
+pycefrl,levels.py,Simple Assignment,446,446,24,A1
+pycefrl,levels.py,Simple Assignment,531,531,24,A1
+pycefrl,levels.py,Simple Assignment,630,630,24,A1
+pycefrl,levels.py,Simple Assignment,197,197,12,A1
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,100,100,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,101,101,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,142,142,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,150,150,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,163,163,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,330,330,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,335,335,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,339,339,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,377,377,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,381,381,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,385,385,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,389,389,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,393,393,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,663,663,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,666,666,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,669,669,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,672,672,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,154,154,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,343,343,8,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,455,455,12,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,468,468,12,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,494,495,12,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,510,510,12,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,520,520,12,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,521,521,12,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,122,122,16,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,501,502,20,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,637,638,16,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,447,447,24,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,532,532,24,A2
+pycefrl,levels.py,Simplified incremental Assignment with increase amount,631,631,24,A2
+pycefrl,levels.py,'pass' statement,547,547,12,B1
+pycefrl,levels.py,'pass' statement,562,562,12,B1
+pycefrl,levels.py,'pass' statement,417,417,16,B1
+pycefrl,levels.py,'pass' statement,534,534,20,B1
+pycefrl,levels.py,Import,3,3,0,A2
+pycefrl,levels.py,Simple If statements,23,71,4,A1
+pycefrl,levels.py,Simple If statements,80,90,4,A1
+pycefrl,levels.py,Simple If statements,115,133,4,A1
+pycefrl,levels.py,Simple If statements,149,156,4,A1
+pycefrl,levels.py,Simple If statements,182,200,4,A1
+pycefrl,levels.py,Simple If statements,205,215,4,A1
+pycefrl,levels.py,Simple If statements,227,241,4,A1
+pycefrl,levels.py,Simple If statements,249,260,4,A1
+pycefrl,levels.py,Simple If statements,266,276,4,A1
+pycefrl,levels.py,Simple If statements,281,290,4,A1
+pycefrl,levels.py,Simple If statements,295,300,4,A1
+pycefrl,levels.py,Simple If statements,329,332,4,A1
+pycefrl,levels.py,Simple If statements,333,336,4,A1
+pycefrl,levels.py,Simple If statements,337,344,4,A1
+pycefrl,levels.py,Simple If statements,350,357,4,A1
+pycefrl,levels.py,Simple If statements,376,377,4,A1
+pycefrl,levels.py,Simple If statements,379,381,4,A1
+pycefrl,levels.py,Simple If statements,383,385,4,A1
+pycefrl,levels.py,Simple If statements,387,389,4,A1
+pycefrl,levels.py,Simple If statements,391,393,4,A1
+pycefrl,levels.py,Simple If statements,461,463,4,A1
+pycefrl,levels.py,Simple If statements,474,483,4,A1
+pycefrl,levels.py,Simple If statements,551,562,4,A1
+pycefrl,levels.py,Simple If statements,581,588,4,A1
+pycefrl,levels.py,Simple If statements,616,619,4,A1
+pycefrl,levels.py,Simple If statements,625,642,4,A1
+pycefrl,levels.py,Simple If statements,661,663,4,A1
+pycefrl,levels.py,Simple If statements,664,666,4,A1
+pycefrl,levels.py,Simple If statements,667,669,4,A1
+pycefrl,levels.py,Simple If statements,670,672,4,A1
+pycefrl,levels.py,Simple If statements,25,71,4,A1
+pycefrl,levels.py,Simple If statements,84,90,4,A1
+pycefrl,levels.py,Simple If statements,102,104,8,A1
+pycefrl,levels.py,Simple If statements,105,107,8,A1
+pycefrl,levels.py,Simple If statements,127,133,4,A1
+pycefrl,levels.py,Simple If statements,143,148,8,A1
+pycefrl,levels.py,Simple If statements,153,156,4,A1
+pycefrl,levels.py,Simple If statements,164,169,8,A1
+pycefrl,levels.py,Simple If statements,183,185,8,A1
+pycefrl,levels.py,Simple If statements,186,200,4,A1
+pycefrl,levels.py,Simple If statements,208,215,4,A1
+pycefrl,levels.py,Simple If statements,230,232,8,A1
+pycefrl,levels.py,Simple If statements,235,240,8,A1
+pycefrl,levels.py,Simple If statements,250,252,8,A1
+pycefrl,levels.py,Simple If statements,253,254,8,A1
+pycefrl,levels.py,Simple If statements,259,260,8,A1
+pycefrl,levels.py,Simple If statements,271,273,8,A1
+pycefrl,levels.py,Simple If statements,274,276,4,A1
+pycefrl,levels.py,Simple If statements,283,290,4,A1
+pycefrl,levels.py,Simple If statements,341,344,4,A1
+pycefrl,levels.py,Simple If statements,352,357,4,A1
+pycefrl,levels.py,Simple If statements,411,417,8,A1
+pycefrl,levels.py,Simple If statements,440,447,8,A1
+pycefrl,levels.py,Simple If statements,453,455,8,A1
+pycefrl,levels.py,Simple If statements,466,468,8,A1
+pycefrl,levels.py,Simple If statements,492,495,8,A1
+pycefrl,levels.py,Simple If statements,508,510,8,A1
+pycefrl,levels.py,Simple If statements,519,521,8,A1
+pycefrl,levels.py,Simple If statements,618,619,4,A1
+pycefrl,levels.py,Simple If statements,633,642,4,A1
+pycefrl,levels.py,Simple If statements,27,71,4,A1
+pycefrl,levels.py,Simple If statements,121,125,12,A1
+pycefrl,levels.py,Simple If statements,187,200,8,A1
+pycefrl,levels.py,Simple If statements,237,240,8,A1
+pycefrl,levels.py,Simple If statements,251,252,12,A1
+pycefrl,levels.py,Simple If statements,256,258,12,A1
+pycefrl,levels.py,Simple If statements,285,290,4,A1
+pycefrl,levels.py,Simple If statements,354,357,4,A1
+pycefrl,levels.py,Simple If statements,498,502,12,A1
+pycefrl,levels.py,Simple If statements,528,534,12,A1
+pycefrl,levels.py,Simple If statements,597,599,12,A1
+pycefrl,levels.py,Simple If statements,627,631,12,A1
+pycefrl,levels.py,Simple If statements,640,642,4,A1
+pycefrl,levels.py,Simple If statements,29,71,4,A1
+pycefrl,levels.py,Simple If statements,190,200,8,A1
+pycefrl,levels.py,Simple If statements,239,240,8,A1
+pycefrl,levels.py,Simple If statements,257,258,16,A1
+pycefrl,levels.py,Simple If statements,287,290,4,A1
+pycefrl,levels.py,Simple If statements,356,357,4,A1
+pycefrl,levels.py,Simple If statements,413,415,16,A1
+pycefrl,levels.py,Simple If statements,499,502,16,A1
+pycefrl,levels.py,Simple If statements,586,588,16,A1
+pycefrl,levels.py,Simple If statements,609,611,16,A1
+pycefrl,levels.py,Simple If statements,635,638,12,A1
+pycefrl,levels.py,Simple If statements,31,71,4,A1
+pycefrl,levels.py,Simple If statements,193,200,8,A1
+pycefrl,levels.py,Simple If statements,213,215,16,A1
+pycefrl,levels.py,Simple If statements,289,290,4,A1
+pycefrl,levels.py,Simple If statements,445,447,20,A1
+pycefrl,levels.py,Simple If statements,530,532,20,A1
+pycefrl,levels.py,Simple If statements,629,631,20,A1
+pycefrl,levels.py,Simple If statements,33,71,4,A1
+pycefrl,levels.py,Simple If statements,196,200,8,A1
+pycefrl,levels.py,Simple If statements,35,71,4,A1
+pycefrl,levels.py,Simple If statements,199,200,8,A1
+pycefrl,levels.py,Simple If statements,37,71,4,A1
+pycefrl,levels.py,Simple If statements,39,71,4,A1
+pycefrl,levels.py,Simple If statements,41,71,4,A1
+pycefrl,levels.py,Simple If statements,43,71,4,A1
+pycefrl,levels.py,Simple If statements,45,71,4,A1
+pycefrl,levels.py,Simple If statements,47,71,4,A1
+pycefrl,levels.py,Simple If statements,49,71,4,A1
+pycefrl,levels.py,Simple If statements,51,71,4,A1
+pycefrl,levels.py,Simple If statements,53,71,4,A1
+pycefrl,levels.py,Simple If statements,55,71,4,A1
+pycefrl,levels.py,Simple If statements,57,71,4,A1
+pycefrl,levels.py,Simple If statements,59,71,4,A1
+pycefrl,levels.py,Simple If statements,62,71,4,A1
+pycefrl,levels.py,Simple If statements,64,71,4,A1
+pycefrl,levels.py,Simple If statements,66,71,4,A1
+pycefrl,levels.py,Simple If statements,68,71,4,A1
+pycefrl,levels.py,Simple If statements,70,71,4,A1
+pycefrl,levels.py,Simple For Loop,99,107,4,A1
+pycefrl,levels.py,Simple For Loop,141,148,4,A1
+pycefrl,levels.py,Simple For Loop,162,169,4,A1
+pycefrl,levels.py,Simple For Loop,410,417,4,A1
+pycefrl,levels.py,Simple For Loop,439,447,4,A1
+pycefrl,levels.py,Simple For Loop,452,455,4,A1
+pycefrl,levels.py,Simple For Loop,465,468,4,A1
+pycefrl,levels.py,1 Nested For Loop,490,502,4,A2
+pycefrl,levels.py,Simple For Loop,507,510,4,A1
+pycefrl,levels.py,Simple For Loop,518,521,4,A1
+pycefrl,levels.py,1 Nested For Loop,526,534,4,A2
+pycefrl,levels.py,Simple For Loop,542,547,4,A1
+pycefrl,levels.py,1 Nested For Loop,594,599,4,A2
+pycefrl,levels.py,1 Nested For Loop,604,611,4,A2
+pycefrl,levels.py,Simple For Loop,120,125,8,A1
+pycefrl,levels.py,Simple For Loop,255,258,8,A1
+pycefrl,levels.py,Simple For Loop,477,478,8,A1
+pycefrl,levels.py,Simple For Loop,497,502,8,A1
+pycefrl,levels.py,Simple For Loop,527,534,8,A1
+pycefrl,levels.py,1 Nested For Loop,583,588,8,A2
+pycefrl,levels.py,Simple For Loop,596,599,8,A1
+pycefrl,levels.py,1 Nested For Loop,606,611,8,A2
+pycefrl,levels.py,Simple For Loop,626,631,8,A1
+pycefrl,levels.py,1 Nested For Loop,210,215,8,A2
+pycefrl,levels.py,1 Nested For Loop,442,447,12,A2
+pycefrl,levels.py,Simple For Loop,585,588,12,A1
+pycefrl,levels.py,Simple For Loop,608,611,12,A1
+pycefrl,levels.py,Simple For Loop,634,638,8,A1
+pycefrl,levels.py,Simple For Loop,212,215,12,A1
+pycefrl,levels.py,Simple For Loop,444,447,16,A1
+pycefrl,levels.py,Simple For Loop,628,631,16,A1
+pycefrl,levels.py,Exception --> try/except,543,547,8,B1
+pycefrl,levels.py,Exception --> try/except,552,562,8,B1
+pycefrl,levels.py,Exception --> try/except,412,417,12,B1
+pycefrl,levels.py,Exception --> try/except,529,534,16,B1
+pycefrl,levels.py,With,14,18,0,B1
+pycefrl,levels.py,Function with Simple argument,21,71,0,A1
+pycefrl,levels.py,Function with Simple argument,75,90,0,A1
+pycefrl,levels.py,Function with Simple argument,93,107,0,A1
+pycefrl,levels.py,Function with Simple argument,110,133,0,A1
+pycefrl,levels.py,Function with Simple argument,136,156,0,A1
+pycefrl,levels.py,Function with Simple argument,159,169,0,A1
+pycefrl,levels.py,Function with Simple argument,179,200,0,A1
+pycefrl,levels.py,Function with Simple argument,203,215,0,A1
+pycefrl,levels.py,Function with Simple argument,218,221,0,A1
+pycefrl,levels.py,Function with Simple argument,224,241,0,A1
+pycefrl,levels.py,Function with Simple argument,244,260,0,A1
+pycefrl,levels.py,Function with Simple argument,263,276,0,A1
+pycefrl,levels.py,Function with Simple argument,279,290,0,A1
+pycefrl,levels.py,Function with Simple argument,293,300,0,A1
+pycefrl,levels.py,Function with Simple argument,303,306,0,A1
+pycefrl,levels.py,Function with Simple argument,309,312,0,A1
+pycefrl,levels.py,Function with Simple argument,315,318,0,A1
+pycefrl,levels.py,Function with Simple argument,321,344,0,A1
+pycefrl,levels.py,Function with Simple argument,348,358,0,A1
+pycefrl,levels.py,Function with Simple argument,361,370,0,A1
+pycefrl,levels.py,Function with Simple argument,373,393,0,A1
+pycefrl,levels.py,Function with Simple argument,396,399,0,A1
+pycefrl,levels.py,Function with Simple argument,402,405,0,A1
+pycefrl,levels.py,Function with Simple argument,408,417,0,A1
+pycefrl,levels.py,Function with Simple argument,420,423,0,A1
+pycefrl,levels.py,Function with Simple argument,427,430,0,A1
+pycefrl,levels.py,Function with Simple argument,437,447,0,A1
+pycefrl,levels.py,Function with Simple argument,450,455,0,A1
+pycefrl,levels.py,Function with Simple argument,458,468,0,A1
+pycefrl,levels.py,Function with Simple argument,471,485,0,A1
+pycefrl,levels.py,Function with Simple argument,488,502,0,A1
+pycefrl,levels.py,Function with Simple argument,505,510,0,A1
+pycefrl,levels.py,Function with Simple argument,516,521,0,A1
+pycefrl,levels.py,Function with Simple argument,524,534,0,A1
+pycefrl,levels.py,Function with Simple argument,537,566,0,A1
+pycefrl,levels.py,Function with Simple argument,573,576,0,A1
+pycefrl,levels.py,Function with Simple argument,579,588,0,A1
+pycefrl,levels.py,Function with Simple argument,591,599,0,A1
+pycefrl,levels.py,Function with Simple argument,602,611,0,A1
+pycefrl,levels.py,Function with Simple argument,614,619,0,A1
+pycefrl,levels.py,Function with Simple argument,622,642,0,A1
+pycefrl,levels.py,Function with Simple argument,645,648,0,A1
+pycefrl,levels.py,Function with Simple argument,651,654,0,A1
+pycefrl,levels.py,Function with Simple argument,658,672,0,A1
+pycefrl,levels.py,Function with Simple argument,675,678,0,A1
+pycefrl,levels.py,Function with Simple argument,681,684,0,A1
+pycefrl,levels.py,Function with Simple argument,687,690,0,A1
+pycefrl,levels.py,Return,260,260,12,A1
+pycefrl,pycerfl.py,Simple List,14,14,11,A1
+pycefrl,pycerfl.py,Simple List,15,15,12,A1
+pycefrl,pycerfl.py,Simple List,16,16,14,A1
+pycefrl,pycerfl.py,Simple List,17,17,17,A1
+pycefrl,pycerfl.py,Simple List,18,18,13,A1
+pycefrl,pycerfl.py,Simple List,19,19,10,A1
+pycefrl,pycerfl.py,Simple List,20,21,14,A1
+pycefrl,pycerfl.py,Simple List,22,23,17,A1
+pycefrl,pycerfl.py,Simple List,26,27,11,A1
+pycefrl,pycerfl.py,Print,75,75,4,A1
+pycefrl,pycerfl.py,Print,101,101,4,A1
+pycefrl,pycerfl.py,Print,114,114,4,A1
+pycefrl,pycerfl.py,Print,115,115,4,A1
+pycefrl,pycerfl.py,Print,125,125,4,A1
+pycefrl,pycerfl.py,Print,146,146,4,A1
+pycefrl,pycerfl.py,Print,157,157,4,A1
+pycefrl,pycerfl.py,Print,164,164,4,A1
+pycefrl,pycerfl.py,Print,167,167,4,A1
+pycefrl,pycerfl.py,'range' call function,168,168,13,A2
+pycefrl,pycerfl.py,'range' call function,190,190,13,A2
+pycefrl,pycerfl.py,Print,206,206,4,A1
+pycefrl,pycerfl.py,Print,82,82,8,A1
+pycefrl,pycerfl.py,Print,132,132,8,A1
+pycefrl,pycerfl.py,Files --> 'open' call function,181,181,9,A2
+pycefrl,pycerfl.py,Files --> 'read' call function,182,182,18,A2
+pycefrl,pycerfl.py,'range' call function,191,191,17,A2
+pycefrl,pycerfl.py,Print,91,91,12,A1
+pycefrl,pycerfl.py,Print,95,95,12,A1
+pycefrl,pycerfl.py,Print,170,170,12,A1
+pycefrl,pycerfl.py,Print,174,174,12,A1
+pycefrl,pycerfl.py,Simple Atributte,45,45,13,A2
+pycefrl,pycerfl.py,Simple Atributte,77,77,8,A2
+pycefrl,pycerfl.py,Simple Atributte,79,79,14,A2
+pycefrl,pycerfl.py,Simple Atributte,81,81,15,A2
+pycefrl,pycerfl.py,Simple Atributte,104,104,11,A2
+pycefrl,pycerfl.py,Simple Atributte,106,106,4,A2
+pycefrl,pycerfl.py,Simple Atributte,127,127,12,A2
+pycefrl,pycerfl.py,Simple Atributte,129,129,14,A2
+pycefrl,pycerfl.py,Simple Atributte,140,140,13,A2
+pycefrl,pycerfl.py,Simple Atributte,152,152,18,A2
+pycefrl,pycerfl.py,Simple Atributte,155,155,7,A2
+pycefrl,pycerfl.py,Simple Atributte,166,166,16,A2
+pycefrl,pycerfl.py,Simple Atributte,62,62,8,A2
+pycefrl,pycerfl.py,Simple Atributte,118,118,18,A2
+pycefrl,pycerfl.py,Simple Atributte,120,120,18,A2
+pycefrl,pycerfl.py,Simple Atributte,152,152,18,A2
+pycefrl,pycerfl.py,Simple Atributte,154,154,14,A2
+pycefrl,pycerfl.py,Simple Atributte,156,156,22,A2
+pycefrl,pycerfl.py,Simple Atributte,169,169,11,A2
+pycefrl,pycerfl.py,Simple Atributte,182,182,18,A2
+pycefrl,pycerfl.py,Simple Atributte,183,183,15,A2
+pycefrl,pycerfl.py,Simple Atributte,198,198,11,A2
+pycefrl,pycerfl.py,Simple Atributte,211,211,22,A2
+pycefrl,pycerfl.py,Simple Atributte,212,212,17,A2
+pycefrl,pycerfl.py,Simple Atributte,33,33,15,A2
+pycefrl,pycerfl.py,Simple Atributte,47,47,19,A2
+pycefrl,pycerfl.py,Simple Atributte,52,52,8,A2
+pycefrl,pycerfl.py,Simple Atributte,64,64,8,A2
+pycefrl,pycerfl.py,Simple Atributte,124,124,8,A2
+pycefrl,pycerfl.py,Simple Atributte,214,214,8,A2
+pycefrl,pycerfl.py,Simple Atributte,40,40,8,A2
+pycefrl,pycerfl.py,Simple Assignment,14,14,0,A1
+pycefrl,pycerfl.py,Simple Assignment,15,15,0,A1
+pycefrl,pycerfl.py,Simple Assignment,16,16,0,A1
+pycefrl,pycerfl.py,Simple Assignment,17,17,0,A1
+pycefrl,pycerfl.py,Simple Assignment,18,18,0,A1
+pycefrl,pycerfl.py,Simple Assignment,19,19,0,A1
+pycefrl,pycerfl.py,Simple Assignment,20,21,0,A1
+pycefrl,pycerfl.py,Simple Assignment,22,23,0,A1
+pycefrl,pycerfl.py,Simple Assignment,26,27,0,A1
+pycefrl,pycerfl.py,Simple Assignment,45,45,4,A1
+pycefrl,pycerfl.py,Simple Assignment,69,69,4,A1
+pycefrl,pycerfl.py,Simple Assignment,70,70,4,A1
+pycefrl,pycerfl.py,Simple Assignment,71,71,4,A1
+pycefrl,pycerfl.py,Assigment with sum (total = total + 1),73,74,4,A1
+pycefrl,pycerfl.py,Simple Assignment,77,77,4,A1
+pycefrl,pycerfl.py,Simple Assignment,79,79,4,A1
+pycefrl,pycerfl.py,Assigment with sum (total = total + 1),100,100,4,A1
+pycefrl,pycerfl.py,Simple Assignment,104,104,4,A1
+pycefrl,pycerfl.py,Assigment with sum (total = total + 1),113,113,4,A1
+pycefrl,pycerfl.py,Simple Assignment,127,127,4,A1
+pycefrl,pycerfl.py,Simple Assignment,129,129,4,A1
+pycefrl,pycerfl.py,Simple Assignment,140,140,4,A1
+pycefrl,pycerfl.py,Simple Assignment,142,142,4,A1
+pycefrl,pycerfl.py,Simple Assignment,152,152,4,A1
+pycefrl,pycerfl.py,Simple Assignment,154,154,4,A1
+pycefrl,pycerfl.py,Simple Assignment,163,163,4,A1
+pycefrl,pycerfl.py,Simple Assignment,165,165,4,A1
+pycefrl,pycerfl.py,Simple Assignment,166,166,4,A1
+pycefrl,pycerfl.py,Simple Assignment,198,198,4,A1
+pycefrl,pycerfl.py,Simple Assignment,199,199,4,A1
+pycefrl,pycerfl.py,Simple Assignment,204,204,4,A1
+pycefrl,pycerfl.py,Simple Assignment,33,33,8,A1
+pycefrl,pycerfl.py,Simple Assignment,47,47,8,A1
+pycefrl,pycerfl.py,Simple Assignment,48,48,8,A1
+pycefrl,pycerfl.py,Simple Assignment,49,49,8,A1
+pycefrl,pycerfl.py,Simple Assignment,50,50,8,A1
+pycefrl,pycerfl.py,Assigment with sum (total = total + 1),89,89,8,A1
+pycefrl,pycerfl.py,Simple Assignment,118,118,8,A1
+pycefrl,pycerfl.py,Simple Assignment,120,120,8,A1
+pycefrl,pycerfl.py,Simple Assignment,122,122,8,A1
+pycefrl,pycerfl.py,Assigment with sum (total = total + 1),133,133,8,A1
+pycefrl,pycerfl.py,Simple Assignment,145,145,8,A1
+pycefrl,pycerfl.py,Simple Assignment,156,156,8,A1
+pycefrl,pycerfl.py,Simple Assignment,182,182,8,A1
+pycefrl,pycerfl.py,Simple Assignment,183,183,8,A1
+pycefrl,pycerfl.py,Simple Assignment,211,211,8,A1
+pycefrl,pycerfl.py,Simple Assignment,212,212,8,A1
+pycefrl,pycerfl.py,Simple Assignment,84,84,12,A1
+pycefrl,pycerfl.py,Simple Assignment,85,85,12,A1
+pycefrl,pycerfl.py,Assigment with sum (total = total + 1),171,171,12,A1
+pycefrl,pycerfl.py,Simple Assignment,192,192,12,A1
+pycefrl,pycerfl.py,Assigment with sum (total = total + 1),175,175,12,A1
+pycefrl,pycerfl.py,Simplified incremental Assignment with increase amount,86,86,8,A2
+pycefrl,pycerfl.py,Import,3,3,0,A2
+pycefrl,pycerfl.py,Import,4,4,0,A2
+pycefrl,pycerfl.py,Import,8,8,0,A2
+pycefrl,pycerfl.py,Import,9,9,0,A2
+pycefrl,pycerfl.py,Import,10,10,0,A2
+pycefrl,pycerfl.py,Import,11,11,0,A2
+pycefrl,pycerfl.py,From,5,5,0,A2
+pycefrl,pycerfl.py,From,6,6,0,A2
+pycefrl,pycerfl.py,From,7,7,0,A2
+pycefrl,pycerfl.py,If statements using → __name__ == ‘__main__’,209,216,0,B2
+pycefrl,pycerfl.py,Simple If statements,32,40,4,A1
+pycefrl,pycerfl.py,Simple If statements,61,64,4,A1
+pycefrl,pycerfl.py,Simple If statements,88,95,4,A1
+pycefrl,pycerfl.py,Simple If statements,144,145,4,A1
+pycefrl,pycerfl.py,Simple If statements,155,156,4,A1
+pycefrl,pycerfl.py,Simple If statements,35,40,4,A1
+pycefrl,pycerfl.py,Simple If statements,63,64,4,A1
+pycefrl,pycerfl.py,Simple If statements,83,85,8,A1
+pycefrl,pycerfl.py,Simple If statements,90,95,8,A1
+pycefrl,pycerfl.py,Simple If statements,169,176,8,A1
+pycefrl,pycerfl.py,Simple If statements,37,40,4,A1
+pycefrl,pycerfl.py,Simple If statements,173,176,8,A1
+pycefrl,pycerfl.py,Simple For Loop,81,86,4,A1
+pycefrl,pycerfl.py,Simple For Loop,131,134,4,A1
+pycefrl,pycerfl.py,Simple For Loop,168,176,4,A1
+pycefrl,pycerfl.py,1 Nested For Loop,190,193,4,A2
+pycefrl,pycerfl.py,Simple For Loop,191,193,8,A1
+pycefrl,pycerfl.py,Exception --> try/except,46,52,4,B1
+pycefrl,pycerfl.py,Exception --> try/except,116,124,4,B1
+pycefrl,pycerfl.py,Exception --> try/except,210,214,4,B1
+pycefrl,pycerfl.py,With,181,185,4,B1
+pycefrl,pycerfl.py,Function,30,40,0,A1
+pycefrl,pycerfl.py,Function,43,56,0,A1
+pycefrl,pycerfl.py,Function with Simple argument,59,64,0,A1
+pycefrl,pycerfl.py,Function with Simple argument,67,95,0,A1
+pycefrl,pycerfl.py,Function with Simple argument,98,107,0,A1
+pycefrl,pycerfl.py,Function,110,134,0,A1
+pycefrl,pycerfl.py,Function with Simple argument,137,147,0,A1
+pycefrl,pycerfl.py,Function with Simple argument,150,158,0,A1
+pycefrl,pycerfl.py,Recursive Functions,161,176,0,B2
+pycefrl,pycerfl.py,Function with Simple argument,179,185,0,A1
+pycefrl,pycerfl.py,Function with Simple argument,188,193,0,A1
+pycefrl,pycerfl.py,Function with Simple argument,196,199,0,A1
+pycefrl,pycerfl.py,Function,202,206,0,A1
+pycefrl,texto.py,Simple List,3,3,4,A1
+pycefrl,texto.py,1 Nested List,6,6,4,A2
+pycefrl,texto.py,1 Dictionary List,9,9,4,B1
+pycefrl,texto.py,Simple List,191,191,0,A1
+pycefrl,texto.py,Simple List,191,191,14,A1
+pycefrl,texto.py,Simple List,290,290,7,A1
+pycefrl,texto.py,Simple List,291,291,8,A1
+pycefrl,texto.py,Simple List,301,301,9,A1
+pycefrl,texto.py,Simple List,312,312,18,A1
+pycefrl,texto.py,Simple List,315,315,18,A1
+pycefrl,texto.py,Simple List,348,348,8,A1
+pycefrl,texto.py,Simple List,350,350,4,A1
+pycefrl,texto.py,Simple List,6,6,18,A1
+pycefrl,texto.py,Simple List,26,26,17,A1
+pycefrl,texto.py,Simple List,26,26,58,A1
+pycefrl,texto.py,Simple List,104,104,24,A1
+pycefrl,texto.py,Simple List,244,244,4,A1
+pycefrl,texto.py,Simple List,510,510,16,A1
+pycefrl,texto.py,Simple List,31,31,18,A1
+pycefrl,texto.py,Simple List,32,32,14,A1
+pycefrl,texto.py,Simple List,35,35,14,A1
+pycefrl,texto.py,Simple List,36,36,17,A1
+pycefrl,texto.py,Simple List,39,39,16,A1
+pycefrl,texto.py,Simple List,88,88,42,A1
+pycefrl,texto.py,Simple List,324,324,9,A1
+pycefrl,texto.py,Simple List,324,324,33,A1
+pycefrl,texto.py,Simple List,540,540,30,A1
+pycefrl,texto.py,Simple List,543,543,14,A1
+pycefrl,texto.py,Simple List,546,546,14,A1
+pycefrl,texto.py,2 Nested Tuple,77,77,5,A2
+pycefrl,texto.py,Simple Tuple,93,93,10,A1
+pycefrl,texto.py,Simple Tuple,189,189,0,A1
+pycefrl,texto.py,Simple Tuple,189,189,12,A1
+pycefrl,texto.py,2 Nested Tuple,195,195,0,A2
+pycefrl,texto.py,Simple Tuple,195,195,14,A1
+pycefrl,texto.py,Simple Tuple,197,197,0,A1
+pycefrl,texto.py,Simple Tuple,308,308,4,A1
+pycefrl,texto.py,2 Nested Tuple,312,312,4,A2
+pycefrl,texto.py,Simple Tuple,315,315,4,A1
+pycefrl,texto.py,Simple Tuple,329,329,4,A1
+pycefrl,texto.py,Simple Tuple,333,333,4,A1
+pycefrl,texto.py,Simple Tuple,77,77,13,A1
+pycefrl,texto.py,Simple Tuple,195,195,1,A1
+pycefrl,texto.py,Simple Tuple,290,290,20,A1
+pycefrl,texto.py,Simple Tuple,291,291,9,A1
+pycefrl,texto.py,Simple Tuple,312,312,5,A1
+pycefrl,texto.py,2 Nested Tuple,312,312,19,A2
+pycefrl,texto.py,2 Nested Tuple,312,312,32,A2
+pycefrl,texto.py,Simple Tuple,315,315,19,A1
+pycefrl,texto.py,Simple Tuple,315,315,33,A1
+pycefrl,texto.py,Simple Tuple,51,51,45,A1
+pycefrl,texto.py,Simple Tuple,56,56,22,A1
+pycefrl,texto.py,Simple Tuple,61,61,21,A1
+pycefrl,texto.py,Simple Tuple,66,66,51,A1
+pycefrl,texto.py,Simple Tuple,312,312,20,A1
+pycefrl,texto.py,Simple Tuple,312,312,33,A1
+pycefrl,texto.py,Simple Tuple,332,332,11,A1
+pycefrl,texto.py,Simple Tuple,334,334,21,A1
+pycefrl,texto.py,Simple Dictionary,23,23,5,A2
+pycefrl,texto.py,2 List Dictionary,26,26,5,B1
+pycefrl,texto.py,5 List in 3Dictionary of Dictionary,29,41,5,B2
+pycefrl,texto.py,Simple Dictionary,49,49,12,A2
+pycefrl,texto.py,Simple Dictionary,55,55,16,A2
+pycefrl,texto.py,Simple Dictionary,60,60,16,A2
+pycefrl,texto.py,Simple Dictionary,65,65,16,A2
+pycefrl,texto.py,Simple Dictionary,225,225,9,A2
+pycefrl,texto.py,Simple Dictionary,9,9,11,A2
+pycefrl,texto.py,2 List Dictionary,30,33,12,B1
+pycefrl,texto.py,2 List Dictionary,34,37,16,B1
+pycefrl,texto.py,1 List Dictionary,38,40,15,B1
+pycefrl,texto.py,Simple Dictionary,223,223,6,A2
+pycefrl,texto.py,Attribute  statements __slots__,510,510,4,C1
+pycefrl,texto.py,Print,52,52,0,A1
+pycefrl,texto.py,Print,57,57,0,A1
+pycefrl,texto.py,Print,62,62,0,A1
+pycefrl,texto.py,Print,67,67,0,A1
+pycefrl,texto.py,Print,94,94,0,A1
+pycefrl,texto.py,Print,95,95,0,A1
+pycefrl,texto.py,Print,96,96,0,A1
+pycefrl,texto.py,Print,98,98,0,A1
+pycefrl,texto.py,Print,99,99,0,A1
+pycefrl,texto.py,'map' call function,135,135,4,C2
+pycefrl,texto.py,Files --> 'open' call function,141,141,9,A2
+pycefrl,texto.py,Files --> 'open' call function,143,143,0,A2
+pycefrl,texto.py,Files --> 'open' call function,144,144,8,A2
+pycefrl,texto.py,Files --> 'read' call function,147,147,10,A2
+pycefrl,texto.py,Files --> 'readline' call function,148,148,10,A2
+pycefrl,texto.py,Files --> 'write' call function,151,151,0,A2
+pycefrl,texto.py,Files --> 'writelines' call function,152,152,0,A2
+pycefrl,texto.py,Print,160,160,0,A1
+pycefrl,texto.py,Files --> 'readline' call function,165,165,7,A2
+pycefrl,texto.py,Files --> 'open' call function,171,171,4,A2
+pycefrl,texto.py,Files --> 'read' call function,172,172,7,A2
+pycefrl,texto.py,Files --> 'open' call function,177,177,4,A2
+pycefrl,texto.py,Print,223,223,0,A1
+pycefrl,texto.py,Print,226,226,0,A1
+pycefrl,texto.py,Print,227,227,0,A1
+pycefrl,texto.py,'enumerate' call function,329,329,22,C2
+pycefrl,texto.py,'enumerate' call function,333,333,14,C2
+pycefrl,texto.py,Print,414,414,0,A1
+pycefrl,texto.py,Print,415,415,0,A1
+pycefrl,texto.py,Print,416,416,0,A1
+pycefrl,texto.py,Print,488,488,0,A1
+pycefrl,texto.py,Print,123,123,4,A1
+pycefrl,texto.py,Print,126,126,4,A1
+pycefrl,texto.py,Files --> 'read' call function,160,160,6,A2
+pycefrl,texto.py,Files --> 'open' call function,162,162,14,A2
+pycefrl,texto.py,Print,204,204,4,A1
+pycefrl,texto.py,Print,211,211,4,A1
+pycefrl,texto.py,Print,230,230,4,A1
+pycefrl,texto.py,Print,249,249,4,A1
+pycefrl,texto.py,Print,251,251,4,A1
+pycefrl,texto.py,Print,254,254,4,A1
+pycefrl,texto.py,Print,302,302,4,A1
+pycefrl,texto.py,Print,306,306,4,A1
+pycefrl,texto.py,Print,310,310,4,A1
+pycefrl,texto.py,Print,313,313,4,A1
+pycefrl,texto.py,Print,316,316,4,A1
+pycefrl,texto.py,'range' call function,320,320,5,A2
+pycefrl,texto.py,'range' call function,321,321,5,A2
+pycefrl,texto.py,'range' call function,322,322,5,A2
+pycefrl,texto.py,'zip' call function,324,324,5,C2
+pycefrl,texto.py,'map' call function,326,326,5,C2
+pycefrl,texto.py,Print,330,330,4,A1
+pycefrl,texto.py,Files --> 'open' call function,333,333,24,A2
+pycefrl,texto.py,Print,334,334,4,A1
+pycefrl,texto.py,Print,339,339,4,A1
+pycefrl,texto.py,'range' call function,345,345,13,A2
+pycefrl,texto.py,Print,352,352,4,A1
+pycefrl,texto.py,Print,353,353,4,A1
+pycefrl,texto.py,Print,358,358,4,A1
+pycefrl,texto.py,Print,363,363,4,A1
+pycefrl,texto.py,Print,366,366,4,A1
+pycefrl,texto.py,Print,368,368,4,A1
+pycefrl,texto.py,Print,371,371,4,A1
+pycefrl,texto.py,Print,373,373,4,A1
+pycefrl,texto.py,Print,376,376,4,A1
+pycefrl,texto.py,Print,379,379,4,A1
+pycefrl,texto.py,'range' call function,393,393,13,A2
+pycefrl,texto.py,Print,431,431,4,A1
+pycefrl,texto.py,Print,494,494,4,A1
+pycefrl,texto.py,Print,556,556,2,A1
+pycefrl,texto.py,Print,561,561,2,A1
+pycefrl,texto.py,Print,578,578,2,A1
+pycefrl,texto.py,Print,628,628,4,A1
+pycefrl,texto.py,Print,632,632,4,A1
+pycefrl,texto.py,Print,637,637,4,A1
+pycefrl,texto.py,Print,640,640,4,A1
+pycefrl,texto.py,Print,646,646,4,A1
+pycefrl,texto.py,Print,648,648,4,A1
+pycefrl,texto.py,Print,658,658,4,A1
+pycefrl,texto.py,Print,660,660,4,A1
+pycefrl,texto.py,Files --> 'open' call function,673,673,5,A2
+pycefrl,texto.py,'range' call function,13,13,20,A2
+pycefrl,texto.py,'range' call function,16,16,22,A2
+pycefrl,texto.py,'range' call function,45,45,22,A2
+pycefrl,texto.py,'range' call function,70,70,56,A2
+pycefrl,texto.py,Files --> 'open' call function,159,159,19,A2
+pycefrl,texto.py,Print,206,206,4,A1
+pycefrl,texto.py,Print,208,208,4,A1
+pycefrl,texto.py,Print,213,213,4,A1
+pycefrl,texto.py,Print,232,232,4,A1
+pycefrl,texto.py,Print,268,268,8,A1
+pycefrl,texto.py,Print,276,276,8,A1
+pycefrl,texto.py,Print,282,282,8,A1
+pycefrl,texto.py,Print,286,286,8,A1
+pycefrl,texto.py,'enumerate' call function,332,332,21,C2
+pycefrl,texto.py,'range' call function,397,397,17,A2
+pycefrl,texto.py,Print,464,464,8,A1
+pycefrl,texto.py,Print,474,474,8,A1
+pycefrl,texto.py,Print,499,499,8,A1
+pycefrl,texto.py,Print,506,506,8,A1
+pycefrl,texto.py,Print,529,529,8,A1
+pycefrl,texto.py,Print,540,540,24,A1
+pycefrl,texto.py,Print,543,543,8,A1
+pycefrl,texto.py,Print,546,546,8,A1
+pycefrl,texto.py,staticmethod,548,548,16,C1
+pycefrl,texto.py,Print,570,570,4,A1
+pycefrl,texto.py,Print,572,572,4,A1
+pycefrl,texto.py,Print,573,573,4,A1
+pycefrl,texto.py,Print,587,587,8,A1
+pycefrl,texto.py,Print,596,596,4,A1
+pycefrl,texto.py,Print,614,614,8,A1
+pycefrl,texto.py,Print,618,618,8,A1
+pycefrl,texto.py,Print,625,625,4,A1
+pycefrl,texto.py,Print,642,642,4,A1
+pycefrl,texto.py,Print,644,644,4,A1
+pycefrl,texto.py,Print,652,652,8,A1
+pycefrl,texto.py,Print,656,656,4,A1
+pycefrl,texto.py,Print,665,665,4,A1
+pycefrl,texto.py,Print,675,675,8,A1
+pycefrl,texto.py,'range' call function,70,70,33,A2
+pycefrl,texto.py,Files --> 'open' call function,160,160,6,A2
+pycefrl,texto.py,Print,215,215,4,A1
+pycefrl,texto.py,Print,296,296,12,A1
+pycefrl,texto.py,Print,299,299,12,A1
+pycefrl,texto.py,Print,654,654,8,A1
+pycefrl,texto.py,Print,217,217,4,A1
+pycefrl,texto.py,Print,219,219,4,A1
+pycefrl,texto.py,Super Function,617,617,8,C2
+pycefrl,texto.py,If statements expression (else),240,240,4,B1
+pycefrl,texto.py,If statements expression (else),66,66,18,B1
+pycefrl,texto.py,If statements expression (else),389,389,11,B1
+pycefrl,texto.py,If statements expression (else),591,591,15,B1
+pycefrl,texto.py,Special Class Attribute __class__,489,489,0,B2
+pycefrl,texto.py,Simple Atributte,490,490,0,A2
+pycefrl,texto.py,Special Class Attribute __dict__,493,493,11,B2
+pycefrl,texto.py,Simple Atributte,519,519,0,A2
+pycefrl,texto.py,Simple Atributte,520,520,0,A2
+pycefrl,texto.py,Simple Atributte,534,534,0,A2
+pycefrl,texto.py,Simple Atributte,535,535,0,A2
+pycefrl,texto.py,Simple Atributte,536,536,0,A2
+pycefrl,texto.py,Simple Atributte,147,147,10,A2
+pycefrl,texto.py,Simple Atributte,148,148,10,A2
+pycefrl,texto.py,Simple Atributte,151,151,0,A2
+pycefrl,texto.py,Simple Atributte,152,152,0,A2
+pycefrl,texto.py,Simple Atributte,155,155,0,A2
+pycefrl,texto.py,Simple Atributte,159,159,0,A2
+pycefrl,texto.py,Simple Atributte,162,162,4,A2
+pycefrl,texto.py,Simple Atributte,165,165,7,A2
+pycefrl,texto.py,Simple Atributte,166,166,8,A2
+pycefrl,texto.py,Simple Atributte,172,172,7,A2
+pycefrl,texto.py,Simple Atributte,174,174,8,A2
+pycefrl,texto.py,Simple Atributte,179,179,4,A2
+pycefrl,texto.py,Simple Atributte,403,403,0,A2
+pycefrl,texto.py,Simple Atributte,406,406,0,A2
+pycefrl,texto.py,Simple Atributte,415,415,6,A2
+pycefrl,texto.py,Simple Atributte,416,416,6,A2
+pycefrl,texto.py,Simple Atributte,446,446,9,A2
+pycefrl,texto.py,Simple Atributte,469,469,0,A2
+pycefrl,texto.py,Simple Atributte,470,470,0,A2
+pycefrl,texto.py,Special Class Attribute __class__,490,490,0,B2
+pycefrl,texto.py,Simple Atributte,94,94,18,A2
+pycefrl,texto.py,Simple Atributte,95,95,20,A2
+pycefrl,texto.py,Simple Atributte,96,96,15,A2
+pycefrl,texto.py,Simple Atributte,98,98,7,A2
+pycefrl,texto.py,Simple Atributte,99,99,7,A2
+pycefrl,texto.py,Simple Atributte,160,160,6,A2
+pycefrl,texto.py,Simple Atributte,226,226,6,A2
+pycefrl,texto.py,Simple Atributte,227,227,6,A2
+pycefrl,texto.py,Simple Atributte,416,416,6,A2
+pycefrl,texto.py,Simple Atributte,462,462,8,A2
+pycefrl,texto.py,Simple Atributte,479,479,8,A2
+pycefrl,texto.py,Simple Atributte,492,492,5,A2
+pycefrl,texto.py,Simple Atributte,527,527,8,A2
+pycefrl,texto.py,Simple Atributte,567,567,4,A2
+pycefrl,texto.py,Simple Atributte,585,585,8,A2
+pycefrl,texto.py,Simple Atributte,51,51,62,A2
+pycefrl,texto.py,Simple Atributte,56,56,32,A2
+pycefrl,texto.py,Simple Atributte,61,61,31,A2
+pycefrl,texto.py,Simple Atributte,66,66,61,A2
+pycefrl,texto.py,Simple Atributte,464,464,14,A2
+pycefrl,texto.py,Simple Atributte,483,483,36,A2
+pycefrl,texto.py,Special Class Attribute __dict__,492,492,5,B2
+pycefrl,texto.py,Special Class Attribute __dict__,494,494,21,B2
+pycefrl,texto.py,Simple Atributte,502,502,8,A2
+pycefrl,texto.py,Simple Atributte,571,571,14,A2
+pycefrl,texto.py,Simple Atributte,588,588,15,A2
+pycefrl,texto.py,Simple Atributte,617,617,8,A2
+pycefrl,texto.py,Simple Atributte,474,474,39,A2
+pycefrl,texto.py,Simple Atributte,481,481,26,A2
+pycefrl,texto.py,Simple Atributte,334,334,25,A2
+pycefrl,texto.py,Simple List Comprehension,13,13,5,C1
+pycefrl,texto.py,List Comprehension with 1If statements,16,16,5,C1
+pycefrl,texto.py,2Nested List Comprehension with,19,19,5,C2
+pycefrl,texto.py,Simple List Comprehension,130,130,4,C1
+pycefrl,texto.py,Simple List Comprehension,168,168,10,C1
+pycefrl,texto.py,Simple List Comprehension,332,332,0,C1
+pycefrl,texto.py,Generator Expression,397,397,0,C1
+pycefrl,texto.py,Simple Dictionary Comprehension,45,45,5,C1
+pycefrl,texto.py,Simple Dictionary Comprehension,51,51,12,C1
+pycefrl,texto.py,Dictionary Comprehension with 1 If statements,56,56,12,C2
+pycefrl,texto.py,Dictionary Comprehension with 2 If statements,61,61,11,C2
+pycefrl,texto.py,Dictionary Comprehension with 1 if expression (If-Else),66,66,13,C2
+pycefrl,texto.py,1 Nested Dictionary Comprehension,70,70,5,C2
+pycefrl,texto.py,Simple Dictionary Comprehension,70,70,10,C1
+pycefrl,texto.py,Simple Assignment,3,3,0,A1
+pycefrl,texto.py,Simple Assignment,6,6,0,A1
+pycefrl,texto.py,Simple Assignment,9,9,0,A1
+pycefrl,texto.py,Simple Assignment,13,13,0,A1
+pycefrl,texto.py,Simple Assignment,16,16,0,A1
+pycefrl,texto.py,Simple Assignment,19,19,0,A1
+pycefrl,texto.py,Simple Assignment,23,23,0,A1
+pycefrl,texto.py,Simple Assignment,26,26,0,A1
+pycefrl,texto.py,Simple Assignment,29,41,0,A1
+pycefrl,texto.py,Simple Assignment,45,45,0,A1
+pycefrl,texto.py,Simple Assignment,49,49,0,A1
+pycefrl,texto.py,Simple Assignment,50,50,0,A1
+pycefrl,texto.py,Simple Assignment,51,51,0,A1
+pycefrl,texto.py,Simple Assignment,55,55,0,A1
+pycefrl,texto.py,Simple Assignment,56,56,0,A1
+pycefrl,texto.py,Simple Assignment,60,60,0,A1
+pycefrl,texto.py,Simple Assignment,61,61,0,A1
+pycefrl,texto.py,Simple Assignment,65,65,0,A1
+pycefrl,texto.py,Simple Assignment,66,66,0,A1
+pycefrl,texto.py,Simple Assignment,70,70,0,A1
+pycefrl,texto.py,Simple Assignment,74,74,0,A1
+pycefrl,texto.py,Simple Assignment,77,77,0,A1
+pycefrl,texto.py,Simple Assignment,81,81,0,A1
+pycefrl,texto.py,Assigment with sum (total = total + 1),84,84,0,A1
+pycefrl,texto.py,Simple Assignment,88,88,0,A1
+pycefrl,texto.py,Simple Assignment,90,90,0,A1
+pycefrl,texto.py,Simple Assignment,93,93,0,A1
+pycefrl,texto.py,Simple Assignment,104,104,0,A1
+pycefrl,texto.py,Simple Assignment,109,109,0,A1
+pycefrl,texto.py,Assigment with sum (total = total + 1),112,112,0,A1
+pycefrl,texto.py,Assigment with sum (total = total + 1),113,113,0,A1
+pycefrl,texto.py,Simple Assignment,116,116,0,A1
+pycefrl,texto.py,Simple Assignment,129,129,0,A1
+pycefrl,texto.py,Simple Assignment,130,130,0,A1
+pycefrl,texto.py,Simple Assignment,133,133,0,A1
+pycefrl,texto.py,Simple Assignment,134,134,0,A1
+pycefrl,texto.py,Simple Assignment,135,135,0,A1
+pycefrl,texto.py,Simple Assignment,141,141,0,A1
+pycefrl,texto.py,Simple Assignment,144,144,0,A1
+pycefrl,texto.py,Simple Assignment,147,147,0,A1
+pycefrl,texto.py,Simple Assignment,148,148,0,A1
+pycefrl,texto.py,Simple Assignment,162,162,0,A1
+pycefrl,texto.py,Simple Assignment,165,165,0,A1
+pycefrl,texto.py,Simple Assignment,166,166,0,A1
+pycefrl,texto.py,Simple Assignment,168,168,0,A1
+pycefrl,texto.py,Simple Assignment,171,171,0,A1
+pycefrl,texto.py,Simple Assignment,172,172,0,A1
+pycefrl,texto.py,Simple Assignment,174,174,0,A1
+pycefrl,texto.py,Simple Assignment,177,177,0,A1
+pycefrl,texto.py,Simple Assignment,179,179,0,A1
+pycefrl,texto.py,Simple Assignment,182,182,0,A1
+pycefrl,texto.py,Assigment with sum (total = total + 1),184,184,0,A1
+pycefrl,texto.py,Simple Assignment,189,189,0,A1
+pycefrl,texto.py,Simple Assignment,191,191,0,A1
+pycefrl,texto.py,Simple Assignment,193,193,0,A1
+pycefrl,texto.py,Simple Assignment,195,195,0,A1
+pycefrl,texto.py,Simple Assignment,197,197,0,A1
+pycefrl,texto.py,Simple Assignment,222,222,0,A1
+pycefrl,texto.py,Simple Assignment,225,225,0,A1
+pycefrl,texto.py,Simple Assignment,240,240,0,A1
+pycefrl,texto.py,Simple Assignment,242,242,0,A1
+pycefrl,texto.py,Simple Assignment,244,244,0,A1
+pycefrl,texto.py,Simple Assignment,263,263,0,A1
+pycefrl,texto.py,Assigment with sum (total = total + 1),279,279,0,A1
+pycefrl,texto.py,Simple Assignment,290,290,0,A1
+pycefrl,texto.py,Simple Assignment,291,291,0,A1
+pycefrl,texto.py,Simple Assignment,304,304,0,A1
+pycefrl,texto.py,Simple Assignment,308,308,0,A1
+pycefrl,texto.py,Simple Assignment,328,328,0,A1
+pycefrl,texto.py,Simple Assignment,348,348,0,A1
+pycefrl,texto.py,Simple Assignment,350,350,0,A1
+pycefrl,texto.py,Simple Assignment,412,412,0,A1
+pycefrl,texto.py,Simple Assignment,441,441,0,A1
+pycefrl,texto.py,Simple Assignment,442,442,0,A1
+pycefrl,texto.py,Simple Assignment,445,445,0,A1
+pycefrl,texto.py,Simple Assignment,446,446,0,A1
+pycefrl,texto.py,Simple Assignment,466,466,0,A1
+pycefrl,texto.py,Simple Assignment,467,467,0,A1
+pycefrl,texto.py,Simple Assignment,487,487,0,A1
+pycefrl,texto.py,Simple Assignment,511,511,0,A1
+pycefrl,texto.py,Simple Assignment,518,518,0,A1
+pycefrl,texto.py,Simple Assignment,533,533,0,A1
+pycefrl,texto.py,Simple Assignment,535,535,0,A1
+pycefrl,texto.py,Simple Assignment,236,236,4,A1
+pycefrl,texto.py,Simple Assignment,238,238,4,A1
+pycefrl,texto.py,Assigment with sum (total = total + 1),265,265,4,A1
+pycefrl,texto.py,Simple Assignment,272,272,4,A1
+pycefrl,texto.py,Simple Assignment,510,510,4,A1
+pycefrl,texto.py,Simple Assignment,517,517,4,A1
+pycefrl,texto.py,Simple Assignment,532,532,4,A1
+pycefrl,texto.py,Simple Assignment,609,609,4,A1
+pycefrl,texto.py,Simple Assignment,275,275,8,A1
+pycefrl,texto.py,Simple Assignment,462,462,8,A1
+pycefrl,texto.py,Simple Assignment,479,479,8,A1
+pycefrl,texto.py,Simple Assignment,527,527,8,A1
+pycefrl,texto.py,Simple Assignment,548,548,8,A1
+pycefrl,texto.py,Simple Assignment,549,549,8,A1
+pycefrl,texto.py,Simple Assignment,567,567,4,A1
+pycefrl,texto.py,Simple Assignment,571,571,4,A1
+pycefrl,texto.py,Simple Assignment,585,585,8,A1
+pycefrl,texto.py,Simplified incremental Assignment with increase amount,185,185,0,A2
+pycefrl,texto.py,Simplified incremental Assignment with decrease subtraction,186,186,0,A2
+pycefrl,texto.py,Simplified incremental Assignment with increase multiplication,187,187,0,A2
+pycefrl,texto.py,Simplified incremental Assignment with decrease subtraction,284,284,8,A2
+pycefrl,texto.py,'raise' exception,663,663,4,B1
+pycefrl,texto.py,'assert' exception,669,669,4,B2
+pycefrl,texto.py,'pass' statement,260,260,4,B1
+pycefrl,texto.py,'pass' statement,606,606,4,B1
+pycefrl,texto.py,'pass' statement,603,603,8,B1
+pycefrl,texto.py,'pass' statement,630,630,4,B1
+pycefrl,texto.py,Import'struct' module,173,173,0,C1
+pycefrl,texto.py,Import'pickle' module,178,178,0,C1
+pycefrl,texto.py,Import,402,402,0,A2
+pycefrl,texto.py,Import,413,413,0,A2
+pycefrl,texto.py,Import with 'as' extension ,436,436,0,B1
+pycefrl,texto.py,Import'importlib' module,444,444,0,C1
+pycefrl,texto.py,Import'struct' module,449,449,0,C1
+pycefrl,texto.py,Import'pickle' module,450,450,0,C1
+pycefrl,texto.py,Import'shelve' module,451,451,0,C1
+pycefrl,texto.py,Import'dbm' module,452,452,0,C1
+pycefrl,texto.py,Import're' module,453,453,0,C1
+pycefrl,texto.py,Import'importlib' module,454,454,0,C1
+pycefrl,texto.py,Import'struct' module'pickle' module,455,455,0,C1
+pycefrl,texto.py,From,103,103,0,A2
+pycefrl,texto.py,From,405,405,0,A2
+pycefrl,texto.py,From with *statements ,408,408,0,B1
+pycefrl,texto.py,Relative From,420,420,0,B1
+pycefrl,texto.py,Relative From,422,422,0,B1
+pycefrl,texto.py,Relative From,424,424,0,B1
+pycefrl,texto.py,From,428,428,0,A2
+pycefrl,texto.py,From with 'as' extension ,437,437,0,B1
+pycefrl,texto.py,From with *statements 'struct' module,456,456,0,C1
+pycefrl,texto.py,From,486,486,0,A2
+pycefrl,texto.py,Simple If statements,125,126,0,A1
+pycefrl,texto.py,Simple If statements,203,208,0,A1
+pycefrl,texto.py,Simple If statements,210,219,0,A1
+pycefrl,texto.py,Simple If statements,235,238,0,A1
+pycefrl,texto.py,If statements using → __name__ == ‘__main__’,432,433,0,B2
+pycefrl,texto.py,Simple If statements,205,208,0,A1
+pycefrl,texto.py,Simple If statements,212,219,0,A1
+pycefrl,texto.py,Simple If statements,266,268,4,A1
+pycefrl,texto.py,Simple If statements,273,276,4,A1
+pycefrl,texto.py,Simple If statements,281,286,4,A1
+pycefrl,texto.py,Simple If statements,383,386,4,A1
+pycefrl,texto.py,Simple If statements,214,219,0,A1
+pycefrl,texto.py,Simple If statements,295,299,8,A1
+pycefrl,texto.py,Simple If statements,216,219,0,A1
+pycefrl,texto.py,Simple For Loop,122,123,0,A1
+pycefrl,texto.py,1 Nested For Loop,293,299,0,A2
+pycefrl,texto.py,For Loop with 1 List to iterate,301,302,0,A2
+pycefrl,texto.py,Simple For Loop,305,306,0,A1
+pycefrl,texto.py,Simple For Loop,309,310,0,A1
+pycefrl,texto.py,For Loop with 1 List to iterate,312,313,0,A2
+pycefrl,texto.py,For Loop with 1 List to iterate,315,316,0,A2
+pycefrl,texto.py,For Loop with Tuple as name,329,330,0,A2
+pycefrl,texto.py,For Loop with Tuple as name,333,334,0,A2
+pycefrl,texto.py,Simple For Loop,351,353,0,A1
+pycefrl,texto.py,Simple For Loop,493,494,0,A1
+pycefrl,texto.py,Simple For Loop,294,299,4,A1
+pycefrl,texto.py,Simple For Loop,345,346,4,A1
+pycefrl,texto.py,Simple For Loop,393,394,4,A1
+pycefrl,texto.py,Simple For Loop,674,675,4,A1
+pycefrl,texto.py,Simple While Loop,248,251,0,B1
+pycefrl,texto.py,While with Else Loop,253,254,0,B1
+pycefrl,texto.py,While with Else Loop,264,268,0,B1
+pycefrl,texto.py,While with Else Loop,271,276,0,B1
+pycefrl,texto.py,While with Else Loop,280,286,0,B1
+pycefrl,texto.py,'break' statement,274,274,8,B1
+pycefrl,texto.py,'break' statement,283,283,8,B1
+pycefrl,texto.py,'break' statement,297,297,12,B1
+pycefrl,texto.py,'continue' statement,267,267,8,B1
+pycefrl,texto.py,Exception --> try/except,229,232,0,B1
+pycefrl,texto.py,Exception --> try/except,622,625,0,B1
+pycefrl,texto.py,Exception --> try/except/else,627,632,0,B1
+pycefrl,texto.py,Exception --> try/finally,634,637,0,B2
+pycefrl,texto.py,Exception --> try/except/else/finally,639,648,0,B2
+pycefrl,texto.py,Exception --> try/try/except/else/finally,650,660,0,B2
+pycefrl,texto.py,Exception --> try/except,662,665,0,B1
+pycefrl,texto.py,Exception --> try/except,651,654,4,B1
+pycefrl,texto.py,With,673,675,0,B1
+pycefrl,texto.py,Function,259,260,0,A1
+pycefrl,texto.py,Function with Simple argument,338,339,0,A1
+pycefrl,texto.py,Function with Simple argument with Default argument with * argument ,341,342,0,B1
+pycefrl,texto.py,Function with Simple argument,344,346,0,A1
+pycefrl,texto.py,Function with Simple argument,357,358,0,A1
+pycefrl,texto.py,Function with Simple argument with Default argument,362,363,0,A2
+pycefrl,texto.py,Function with * argument ,365,366,0,B1
+pycefrl,texto.py,Function with ** argument,367,368,0,B1
+pycefrl,texto.py,Function with * argument  with Keyword-Only argument,370,371,0,B1
+pycefrl,texto.py,Function with Keyword-Only argument,372,373,0,B1
+pycefrl,texto.py,Function with Simple argument with Default argument with * argument  with Keyword-Only argument with ** argument,375,376,0,B1
+pycefrl,texto.py,Function,378,379,0,A1
+pycefrl,texto.py,Recursive Functions,382,386,0,B2
+pycefrl,texto.py,Recursive Functions,388,389,0,B2
+pycefrl,texto.py,Function with Simple argument,392,394,0,A1
+pycefrl,texto.py,Function,430,431,0,A1
+pycefrl,texto.py,Function with Simple argument,555,557,0,A1
+pycefrl,texto.py,Function,560,561,0,A1
+pycefrl,texto.py,Function,577,579,0,A1
+pycefrl,texto.py,Function with Simple argument,668,670,0,A1
+pycefrl,texto.py,Function with Simple argument,461,462,4,A1
+pycefrl,texto.py,Function with Simple argument,463,464,4,A1
+pycefrl,texto.py,Function with Simple argument,473,474,4,A1
+pycefrl,texto.py,Function with Simple argument,478,479,4,A1
+pycefrl,texto.py,Function with Simple argument,480,481,4,A1
+pycefrl,texto.py,Function with Simple argument,482,483,4,A1
+pycefrl,texto.py,Function with Simple argument,498,499,4,A1
+pycefrl,texto.py,Function with Simple argument,501,502,4,A1
+pycefrl,texto.py,Function with Simple argument,505,506,4,A1
+pycefrl,texto.py,Function with Simple argument,515,516,4,A1
+pycefrl,texto.py,Function with Simple argument,524,525,4,A1
+pycefrl,texto.py,Function with Simple argument,526,527,4,A1
+pycefrl,texto.py,Function with Simple argument,528,529,4,A1
+pycefrl,texto.py,Function with Simple argument,540,540,4,A1
+pycefrl,texto.py,Function with Simple argument,542,543,4,A1
+pycefrl,texto.py,Function with Simple argument,545,549,4,A1
+pycefrl,texto.py,Function with Simple argument,566,567,2,A1
+pycefrl,texto.py,Function with Simple argument with * argument  with ** argument,569,574,2,B1
+pycefrl,texto.py,Function with Simple argument,584,585,4,A1
+pycefrl,texto.py,Function with Simple argument with * argument  with ** argument,586,588,4,B1
+pycefrl,texto.py,Function with Simple argument,589,591,4,A1
+pycefrl,texto.py,Function with Simple argument,595,596,2,A1
+pycefrl,texto.py,Function with Simple argument,602,603,4,A1
+pycefrl,texto.py,Function with Simple argument,613,614,4,A1
+pycefrl,texto.py,Function with Simple argument,616,618,4,A1
+pycefrl,texto.py,Lambda,348,348,9,B1
+pycefrl,texto.py,Lambda,348,348,26,B1
+pycefrl,texto.py,Lambda,350,350,5,B1
+pycefrl,texto.py,Lambda,350,350,23,B1
+pycefrl,texto.py,Lambda,350,350,40,B1
+pycefrl,texto.py,Return,342,342,4,A1
+pycefrl,texto.py,Return,389,389,4,A1
+pycefrl,texto.py,Return,557,557,2,A1
+pycefrl,texto.py,Return,579,579,2,A1
+pycefrl,texto.py,Return,670,670,4,A1
+pycefrl,texto.py,Return,384,384,8,A1
+pycefrl,texto.py,Return,386,386,8,A1
+pycefrl,texto.py,Return,481,481,8,A1
+pycefrl,texto.py,Return,483,483,8,A1
+pycefrl,texto.py,Return,516,516,8,A1
+pycefrl,texto.py,Return,525,525,8,A1
+pycefrl,texto.py,Return,574,574,4,A1
+pycefrl,texto.py,Return,588,588,8,A1
+pycefrl,texto.py,Return,591,591,8,A1
+pycefrl,texto.py,Generator Function (yield),346,346,8,C1
+pycefrl,texto.py,Generator Function (yield),394,394,8,C1
+pycefrl,texto.py,Simple Class ,460,464,0,B1
+pycefrl,texto.py,Inherited Class from FirstClass,472,474,0,B1
+pycefrl,texto.py,Inherited Class from SecondClass Using the constructor method --> __init__,477,483,0,B1
+pycefrl,texto.py,Simple Class  Private Methods __secret of the class Private Attributes __secret of the class,497,502,0,C2
+pycefrl,texto.py,Inherited Class from Demo Private Methods __secret of the class,504,506,0,C2
+pycefrl,texto.py,Inherited Class from object,509,510,0,B1
+pycefrl,texto.py,Inherited Class from object with Class Properties ,514,517,0,C1
+pycefrl,texto.py,Inherited Class from object with Descriptors __get__ with Descriptors __set__ with Descriptors __delete__,523,529,0,B1C1C1C1
+pycefrl,texto.py,Inherited Class from object,531,532,0,B1
+pycefrl,texto.py,Simple Class ,539,549,0,B1
+pycefrl,texto.py,Inherited Class from object,564,574,0,B1
+pycefrl,texto.py,Inherited Class from object Using the constructor method --> __init__ with Descriptors __get__,583,591,0,B1C1
+pycefrl,texto.py,Inherited Class from object Using the constructor method --> __init__,594,596,0,B1
+pycefrl,texto.py,Inherited Class from type Metaclass (3.X) created with --> __new__,601,603,0,C2
+pycefrl,texto.py,Simple Class  Metaclass created in the class header --> 'metaclass = 'Meta,605,606,0,C2
+pycefrl,texto.py,Simple Class ,608,609,0,B1
+pycefrl,texto.py,Simple Class ,612,614,0,B1
+pycefrl,texto.py,Inherited Class from C,615,618,0,B1
