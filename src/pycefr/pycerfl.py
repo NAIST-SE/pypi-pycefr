@@ -150,6 +150,7 @@ def get_directory(url):
 def get_path(name_directory):
     """ Get the path to the directory. """
     absFilePath = os.path.abspath(name_directory)
+    absFilePath = absFilePath.replace('/','\\' )
     #-- Check if the last element is a file.py
     fichero = absFilePath.split('/')[-1]
     if fichero.endswith('.py'):
@@ -162,7 +163,7 @@ def read_Directory(absFilePath, repo):
     """ Extract the .py files from the directory. """
     pos = ''
     print('Directory: ')
-    path = absFilePath
+    path = absFilePath.replace('/','\\' )
     directory = os.listdir(path)
     print(directory)
     for i in range(0, len(directory)):
@@ -173,7 +174,9 @@ def read_Directory(absFilePath, repo):
         elif not ('.') in directory[i]:
             print('\nOpening another directory...\n')
             path2 =  absFilePath + '/' + directory[i]
-            read_Directory(path2, directory[i])
+            if os.path.isdir(path2):
+                read_Directory(path2, directory[i])
+                print("Skip ", absFilePath)
 
 
 def read_File(pos, repo):
