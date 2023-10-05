@@ -131,7 +131,7 @@ def show_Results():
 def read_Json():
     """ Read json file. """
     #result = ''
-    with open('data.json') as file:
+    with open('results/d.json') as file:
         data = json.load(file)
         extract_Levels(data)
         result = show_Results()

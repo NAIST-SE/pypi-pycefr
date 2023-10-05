@@ -44,7 +44,7 @@ def write_FileCsv(myDataCsv, file_name, file_csv = ""):
 
 def read_FileCsv(file_csv = ""):
     """ Read data.csv and create a list to iterate. """
-    with open('data.csv', newline='') as File:
+    with open('results/d.csv', newline='') as File:
         reader = csv.reader(File)
         myDataList = []
         for row in reader:

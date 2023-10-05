@@ -120,15 +120,12 @@ def level_Dict(self):
         self.clase = (str(numDict) + ' Nested Dictionary')
         
         #-- Check for lists inside dictionary dictionaries
-        try:
-            for i in range(0, len(self.node.values)):
+        for i in range(0, len(self.node.values)):
                 if 'ast.List' in str(self.node.values[i].values):
                     numList += str(self.node.values[i].values).count('ast.List')
                     self.level= dictLevel['Dict'][3]['with-dict-list']
                     self.clase = (str(numList) + ' List in ' + str(numDict) +
                             'Dictionary of Dictionary')
-        except AttributeError:
-            print('No such attribute')
             
     #-- Check for lists
     elif 'ast.List' in str(self.node.values):
