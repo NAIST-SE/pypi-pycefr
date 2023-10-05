@@ -8,7 +8,7 @@ from pycefr.getcsv import read_FileCsv
 import sys
 import shlex, subprocess
 # import json
-import requests
+# import requests
 
 #-- Create lists of each attribute
 Literals = ['ast.List', 'ast.Tuple', 'ast.Dict']
@@ -178,7 +178,7 @@ def read_Directory(absFilePath, repo):
 
 def read_File(pos, repo):
     """ Read the file and return the tree. """
-    with open(pos) as fp:
+    with open(pos,'r',encoding="utf-8") as fp:
         my_code = fp.read()
         tree = ast.parse(my_code)
         # print (ast.dump(tree))
@@ -203,9 +203,9 @@ def deepen(tree, attrib, pos, repo):
 
 def summary_Levels():
     """ Summary of directory levels """
-    result = read_Json()
-    # read_FileCsv()
-    print(result)
+    # result = read_Json()
+    read_FileCsv()
+    # print(result)
 
 
 if __name__ == "__main__":

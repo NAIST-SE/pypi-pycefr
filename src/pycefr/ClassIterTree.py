@@ -13,7 +13,7 @@ class IterTree():
                 'Displacement', 'Level']]
 
     # JSON dictionary
-    myDataJson = {}
+    # myDataJson = {}
     
     def __init__(self, tree, attrib, file, repo):
         """ Class constructor. """
@@ -32,35 +32,36 @@ class IterTree():
                 self.clase = ''
                 levels.levels(self)
                 self.assign_List()
-                self.assign_Dict()
-                self.read_FileJson()
-
+                # self.assign_Dict()
+                # self.read_FileJson()
 
     def assign_List(self):
         """ Create object list. """
         if (self.clase != '') and (self.level != ''):
             self.list = [self.repo, self.name, self.clase, self.node.lineno,
                         self.node.end_lineno, self.node.col_offset, self.level]
-            print(self.list)
+            print(self.list[0], self.list[1],self.list[2])
             self.add_Csv()
 
     def add_Csv(self):
         """ Add object list to CSV. """
         self.myDataCsv.append(self.list)
-        # print(self.myDataList)
         self.read_FileCsv()
+        # print(self.myDataList)
 
     def read_FileCsv(self, file_csv = "", ):
         """ Create and add data in the .csv file. """
         if not file_csv:
-            file_csv = open('data.csv', 'w', encoding="utf-8")
+            file_csv = open(self.repo+'-'+self.name+'.csv', 'w', encoding="utf-8")
             with file_csv:
                 writer = csv.writer(file_csv)
                 writer.writerows(self.myDataCsv)
+                # self.myDataCsv.clear()
         else:
-            with open(r'data.csv', 'a', encoding="utf-8") as f:
+            with open(self.repo+'-'+self.name+'.csv', 'a', encoding="utf-8") as f:
                 writer = csv.writer(f)
                 writer.writerow(self.myDataCsv)
+                # self.myDataCsv.clear()
 
     def assign_Dict(self):
         """ Create object dictionary. """
