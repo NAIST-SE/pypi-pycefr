@@ -46,7 +46,6 @@ class IterTree():
     def add_Csv(self):
         """ Add object list to CSV. """
         self.myDataCsv.append(self.list)
-        # print(self.myDataCsv.len())
         self.read_FileCsv()
         # print(self.myDataList)
 

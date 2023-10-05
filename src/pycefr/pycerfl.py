@@ -163,7 +163,7 @@ def read_Directory(absFilePath, repo):
     """ Extract the .py files from the directory. """
     pos = ''
     print('Directory: ')
-    path = absFilePath.replace('/','\\' )
+    path = absFilePath
     directory = os.listdir(path)
     print(directory)
     for i in range(0, len(directory)):
