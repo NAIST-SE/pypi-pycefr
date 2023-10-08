@@ -3,6 +3,7 @@
 import ast
 import csv
 import json
+import os
 from pycefr import levels
 
 class IterTree():
@@ -42,7 +43,7 @@ class IterTree():
         if (self.clase != '') and (self.level != ''):
             self.list = [self.repo, self.name, self.clase, self.node.lineno,
                         self.node.end_lineno, self.node.col_offset, self.level]
-            print("Analyzing: - "+self.list[1],self.list[6])
+            print("Analyzing: - "+self.list[1],self.list[2],self.list[6])
             self.add_Csv()
 
     def add_Csv(self):
@@ -53,13 +54,22 @@ class IterTree():
 
     def read_FileCsv(self, file_csv = "", ):
         """ Create and add data in the .csv file. """
+        #-- Get current path
+        wd = os.getcwd()
+        #-- Create new folder
+        try:
+            os.mkdir(wd + "/results")
+        except FileExistsError:
+            pass
+        path_file = wd + '/results/d.csv'
+        """ Create and add data in the .csv file. """
         if not file_csv:
-            file_csv = open('results/d.csv', 'w', encoding="utf-8")
+            file_csv = open(path_file, 'w', encoding="utf-8")
             with file_csv:
                 writer = csv.writer(file_csv)
                 writer.writerows(self.myDataCsv)
         else:
-            with open(r'results/d.csv', 'a', encoding="utf-8") as f:
+            with open(path_file, 'a', encoding="utf-8") as f:
                 writer = csv.writer(f)
                 writer.writerow(self.myDataCsv)
 
@@ -80,6 +90,15 @@ class IterTree():
                 'Level'       : str(self.level)})
 
     def read_FileJson(self):
+        """ Create and add data in the .csv file. """
+        #-- Get current path
+        wd = os.getcwd()
+        #-- Create new folder
+        try:
+            os.mkdir(wd + "/results")
+        except FileExistsError:
+            pass
+        path_file = wd + '/results/d.json'
         """ Create and add data in the .json file. """
-        with open('results/d.json', 'w', encoding="utf-8") as file:
+        with open(path_file, 'w', encoding="utf-8") as file:
             json.dump(self.myDataJson, file, indent=4)
