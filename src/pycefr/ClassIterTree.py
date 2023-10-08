@@ -23,7 +23,7 @@ class IterTree():
         self.attrib = attrib
         self.name = file
         self.repo = repo
-        self.locate_Tree()
+        self.locate_Tree()   
 
     def locate_Tree(self):
         """ Method iterating on the tree. """
@@ -42,7 +42,7 @@ class IterTree():
         if (self.clase != '') and (self.level != ''):
             self.list = [self.repo, self.name, self.clase, self.node.lineno,
                         self.node.end_lineno, self.node.col_offset, self.level]
-            print(self.list[0], self.list[1],self.list[6])
+            print("Analyzing: - "+self.list[1],self.list[6])
             self.add_Csv()
 
     def add_Csv(self):
@@ -54,12 +54,12 @@ class IterTree():
     def read_FileCsv(self, file_csv = "", ):
         """ Create and add data in the .csv file. """
         if not file_csv:
-            file_csv = open('results/'+self.repo+'-d.csv', 'w', encoding="utf-8")
+            file_csv = open('results/d.csv', 'w', encoding="utf-8")
             with file_csv:
                 writer = csv.writer(file_csv)
                 writer.writerows(self.myDataCsv)
         else:
-            with open(r'results/'+self.repo+'-d.csv', 'a', encoding="utf-8") as f:
+            with open(r'results/d.csv', 'a', encoding="utf-8") as f:
                 writer = csv.writer(f)
                 writer.writerow(self.myDataCsv)
 

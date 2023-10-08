@@ -150,7 +150,7 @@ def get_directory(url):
 def get_path(name_directory):
     """ Get the path to the directory. """
     absFilePath = os.path.abspath(name_directory)
-    absFilePath = absFilePath.replace('/','\\' )
+    # absFilePath = absFilePath.replace('/','\\' )
     #-- Check if the last element is a file.py
     fichero = absFilePath.split('/')[-1]
     if fichero.endswith('.py'):
