@@ -2,6 +2,16 @@
 
 import csv
 import os
+import pandas as pd
+
+
+def cleanData (): 
+    """ Clean the data from the csv. """
+    # Read the CSV file into a DataFrame
+    df = pd.read_csv('results/d.csv')
+    df.dropna(subset=['Repository', 'File Name', 'Class', 'Start Line', 'End Line', 'Displacement', 'Level'], inplace=True)
+    # Write the cleaned dataframe to a new CSV file
+    df.to_csv('results/dclean.csv', index=False)
 
 
 def create_csv(myDataList):
