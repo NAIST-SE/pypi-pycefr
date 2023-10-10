@@ -32,23 +32,24 @@ def write_FileCsv(myDataCsv, file_name, file_csv = ""):
     path_file = wd + '/DATA_CSV/' + file_name
     #-- Create a csv with each file name
     if not file_csv:
-        file_csv = open(path_file, 'w')
+        file_csv = open(path_file, 'w',encoding="utf-8")
         with file_csv:
             writer = csv.writer(file_csv)
             writer.writerows(myDataCsv)
     else:
-        with open(path_file, 'a') as f:
+        with open(path_file, 'a',encoding="utf-8") as f:
             writer = csv.writer(f)
             writer.writerow(myDataCsv)
 
 
 def read_FileCsv(file_csv = ""):
     """ Read data.csv and create a list to iterate. """
-    with open('results/d.csv', newline='') as File:
+    with open('results/d.csv', newline='',encoding="utf-8") as File:
         reader = csv.reader(File)
         myDataList = []
         for row in reader:
             myDataList.append(row)
+            # print(row)
 
         create_csv(myDataList)
 
