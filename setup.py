@@ -4,6 +4,6 @@ setup(
     name='pycefr',
     packages=find_packages(),
     package_data={'pycefr': ['data/*']}
-    install_requires=['requests'],
+    install_requires=['requests', 'pandas'],
     python_requires='>=3'
 )
