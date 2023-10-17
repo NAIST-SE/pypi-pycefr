@@ -1,14 +1,20 @@
 [build-system]
-requires = ["flit_core >=3.2,<4", 'requests','pandas']
+requires = ["flit_core", 'pandas']
 build-backend = "flit_core.buildapi"
 
 [project]
 name = "pycefr"
 authors = [{name = "Raula G. Kula", email = "raula-k@is.naist.jp"}]
+version='1.0.0'
+url='https://github.com/NAIST-SE/pypi-pycefr'
+description='A tool to measure code competency levels based on CEFR model'
 readme = "README.md"
 license = {file = "LICENSE"}
-classifiers = ["License :: OSI Approved :: MIT License"]
-dynamic = ["version", "description"]
+classifiers = [
+    'Development Status :: 3 - Alpha',
+    'Intended Audience :: Researchers',
+    'Topic :: Software Development :: Build Tools',
+]
 
 [project.urls]
 Home = "https://raux.github.io/"
