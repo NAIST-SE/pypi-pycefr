@@ -12,7 +12,7 @@ readme = "README.md"
 license = {file = "LICENSE"}
 classifiers = [
     'Development Status :: 3 - Alpha',
-    'Intended Audience :: Researchers',
+    'PROGRAMMING LANGUAGE :: PYTHON :: 3',
     'Topic :: Software Development :: Build Tools',
 ]
 

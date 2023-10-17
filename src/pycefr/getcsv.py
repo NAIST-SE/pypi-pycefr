@@ -4,7 +4,6 @@ import csv
 import os
 import pandas as pd
 
-
 def cleanData(): 
     """ Clean the data from the csv. """
     # Read the CSV file into a DataFrame
