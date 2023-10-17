@@ -8,7 +8,7 @@ from pycefr.getcsv import read_FileCsv
 import sys
 import shlex, subprocess
 # import json
-# import requests
+import requests
 
 #-- Create lists of each attribute
 Literals = ['ast.List', 'ast.Tuple', 'ast.Dict']

@@ -13,7 +13,6 @@ def cleanData():
     # Write the cleaned dataframe to a new CSV file
     df.to_csv('results/d.csv', index=False)
 
-
 def create_csv(myDataList):
     """Scrolls through the list looking for different .py files. """
     #-- Remove the header
