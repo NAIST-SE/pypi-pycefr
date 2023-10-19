@@ -31,7 +31,7 @@ It should create a results folder with two files
 - d.json
 
 ## Citation
-If you use PDF-GPT in your research or wish to refer to the examples in this repo, please cite with:
+If you use pycefr in your research or wish to refer to the examples in this repo, please cite with:
 
 ```bibtex
 @inproceedings{RoblesICPC22,
