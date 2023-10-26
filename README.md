@@ -1,6 +1,9 @@
 # **pycefrl**
 ## *Identifying Python3 Code Level Using the CERFL Framework as Inspiration*
 
+Now available as a PyPI module
+https://pypi.org/project/pycefr/
+
 ### What is this project about?
 The goal of pycefrl is to create a tool capable of obtaining an evaluation inspired by the [''Common European Framework of Reference for Languages''](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages) for code written in the Python programming language, version 3.
 
