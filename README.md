@@ -1,4 +1,4 @@
-# **pycefrl**
+# **pycefrl - Evaluating Developer Proficiency Through Source Code**
 ## *Identifying Python3 Code Level Using the CERFL Framework as Inspiration*
 
 Now available as a PyPI module
